@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parliaments>
+  <parliament>
+  <uuid>d9f52c8e-df83-4c49-bdd8-48e6f175ca6c</uuid>  
+  <name>Baden-Württemberg</name>  
+  <valid_date_start>Mittwoch, 11 Mai, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Mittwoch, 11 Mai, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>a2828a3a-ab18-4fa1-8cfc-32667eec93e0</uuid>  
+  <name>Baden-Württemberg 2006-2011</name>  
+  <valid_date_start>Sonntag, 26 März, 2006 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 27 März, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>4e001994-a5d3-4f8a-9a9e-8e84f9531a1e</uuid>  
+  <name>Bayern</name>  
+  <valid_date_start>Montag, 7 Oktober, 2013 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Montag, 7 Oktober, 2013 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>cd4fea25-3cff-476f-9247-4a8018628653</uuid>  
+  <name>Bayern 2008-2013</name>  
+  <valid_date_start>Montag, 20 Oktober, 2008 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 15 September, 2013 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>569b4daa-14aa-4357-9011-2e77702b31df</uuid>  
+  <name>Berlin</name>  
+  <valid_date_start>Sonntag, 18 September, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 18 September, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>0c1dd0d6-47e4-4619-bfd0-3cf87a5b1758</uuid>  
+  <name>Berlin 2006-2011</name>  
+  <valid_date_start>Sonntag, 17 September, 2006 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 17 September, 2006 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>6de60455-6a67-4f27-b8a7-f51a610fa970</uuid>  
+  <name>Berlin-Neukölln</name>  
+  <valid_date_start>Donnerstag, 27 Oktober, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Donnerstag, 27 Oktober, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>0c5af86d-f72f-41a2-9a73-139ccfa4270f</uuid>  
+  <name>Brandenburg</name>  
+  <valid_date_start>Mittwoch, 6 August, 2014 - 10:00, Dienstag, 11 November, 2014 - 11:00</valid_date_start>  
+  <valid_date_end>Samstag, 13 September, 2014 - 18:00, Samstag, 11 November, 2017 - 11:00</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>2b33f364-691f-4bdf-a6a0-59b0379aada0</uuid>  
+  <name>Brandenburg 2009-2014</name>  
+  <valid_date_start>Mittwoch, 21 Oktober, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Mittwoch, 21 Oktober, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>1764827c-4a36-40f5-a6f0-5c368a40f217</uuid>  
+  <name>Bremen</name>  
+  <valid_date_start>Dienstag, 31 März, 2015 - 10:45</valid_date_start>  
+  <valid_date_end>Sonntag, 10 Mai, 2015 - 18:00</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>776a0ba8-95ac-457f-8d18-d7abd3023d57</uuid>  
+  <name>Bremen 2007-2011</name>  
+  <valid_date_start>Mittwoch, 30 Mai, 2007 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 13 Mai, 2007 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>7510f8d9-6e12-451d-9fa9-4c23fbc2d616</uuid>  
+  <name>Bremen 2011-2015</name>  
+  <valid_date_start>Sonntag, 22 Mai, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 22 Mai, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>42a23be2-83d8-4b71-a9fe-6470c4bf2531</uuid>  
+  <name>Bundestag</name>  
+  <valid_date_start>Mittwoch, 23 Oktober, 2013 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Mittwoch, 23 Oktober, 2013 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>5b2ebb7e-df54-4908-8855-37575a5d6fb1</uuid>  
+  <name>Bundestag 2005-2009</name>  
+  <valid_date_start>Dienstag, 18 Oktober, 2005 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Montag, 26 Oktober, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>6aaf1687-ea28-4eca-be5d-946a849ba35f</uuid>  
+  <name>Bundestag 2009-2013</name>  
+  <valid_date_start>Dienstag, 27 Oktober, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 22 September, 2013 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>0a41c916-f649-4f96-8500-231badbb729d</uuid>  
+  <name>Bürgermeisterwahlen Nordrhein-Westfalen 2009</name>  
+  <valid_date_start>Sonntag, 30 August, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 30 August, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>2a3d7b3a-5c6b-4407-8065-c8fa6b2144e1</uuid>  
+  <name>Chemnitz</name>  
+  <valid_date_start>Freitag, 8 Mai, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Freitag, 8 Mai, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>78fd6f6c-ffae-44da-b8de-0aa199f96cdd</uuid>  
+  <name>Darmstadt</name>  
+  <valid_date_start>Sonntag, 27 März, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 27 März, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>5d3875f1-076a-45e7-ac44-ca10bfc59a55</uuid>  
+  <name>Demo</name>  
+  <valid_date_start>Dienstag, 19 August, 2014 - 20:00</valid_date_start>  
+  <valid_date_end>Mittwoch, 19 November, 2014 - 20:00</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>8baaa4a5-3dec-44be-88e4-5521447f7fac</uuid>  
+  <name>Dresden</name>  
+  <valid_date_start>Mittwoch, 13 August, 2008 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Mittwoch, 13 August, 2008 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>18ea3bc2-8348-4824-8695-e0c2864fd126</uuid>  
+  <name>EU</name>  
+  <valid_date_start>Freitag, 25 April, 2014 - 11:00, Samstag, 21 Juni, 2014 - 11:00</valid_date_start>  
+  <valid_date_end>Sonntag, 25 Mai, 2014 - 18:00, Mittwoch, 21 Juni, 2017 - 11:00</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>39c3f28b-93fa-49aa-94ba-6dc21db372ac</uuid>  
+  <name>EU-Parlament 2004-2009</name>  
+  <valid_date_start>Sonntag, 13 Juni, 2004 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Donnerstag, 4 Juni, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>a1a013ff-ed72-4cea-83c5-b8d70d293016</uuid>  
+  <name>EU-Parlament 2009-2014</name>  
+  <valid_date_start>Dienstag, 14 Juli, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Dienstag, 14 Juli, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>9a5da568-e97e-444c-b3bc-979e18d10cae</uuid>  
+  <name>Frankfurt am Main</name>  
+  <valid_date_start>Freitag, 9 September, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Freitag, 9 September, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>4aa67229-4475-408c-9e5c-a90c76edc7fe</uuid>  
+  <name>Freiburg</name>  
+  <valid_date_start>Dienstag, 15 September, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Dienstag, 15 September, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>f4f144a9-452b-422b-8cd6-bfe17a9b6c8c</uuid>  
+  <name>Halle (Saale)</name>  
+  <valid_date_start>Mittwoch, 1 Juli, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Mittwoch, 1 Juli, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>eacf8eca-932f-4620-9668-7386013481a0</uuid>  
+  <name>Hamburg</name>  
+  <valid_date_start>Mittwoch, 14 Januar, 2015 - 12:30, Freitag, 6 März, 2015 - 11:00</valid_date_start>  
+  <valid_date_end>Samstag, 14 Februar, 2015 - 18:00, Freitag, 6 März, 2020 - 11:00</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>75a94750-8745-4d6d-9dbe-0de4deaaedf2</uuid>  
+  <name>Hamburg 2004-2008</name>  
+  <valid_date_start>Donnerstag, 18 März, 2004 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 24 Februar, 2008 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>c42312b0-dc4e-470e-ac4a-a6c00400c29e</uuid>  
+  <name>Hamburg 2008-2011</name>  
+  <valid_date_start>Mittwoch, 12 März, 2008 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 20 Februar, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>2289566c-1835-43c7-900e-2b1e5cc4ecca</uuid>  
+  <name>Hamburg 2011-2015</name>  
+  <valid_date_start>Montag, 7 März, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Montag, 7 März, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>cb090bc1-3d5e-4443-a378-ce115095c7d8</uuid>  
+  <name>Hessen</name>  
+  <valid_date_start>Samstag, 18 Januar, 2014 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Samstag, 18 Januar, 2014 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>7671a1b1-26bc-4ac0-a6af-3ed269faaa1c</uuid>  
+  <name>Hessen 2008</name>  
+  <valid_date_start>Sonntag, 27 Januar, 2008 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 27 Januar, 2008 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>55147eb7-746b-4ebd-9279-ac6d7da99b6b</uuid>  
+  <name>Hessen 2009-2013</name>  
+  <valid_date_start>Donnerstag, 5 Februar, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Donnerstag, 16 Januar, 2014 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>ae4ddd93-bc5a-4c08-9618-230516b4dcbe</uuid>  
+  <name>Kreis Darmstadt-Dieburg</name>  
+  <valid_date_start>Montag, 16 Mai, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Montag, 16 Mai, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>91c8c9c0-ae5c-4acb-8f49-9ea9b3e37ed5</uuid>  
+  <name>Kreis Göttingen</name>  
+  <valid_date_start>Mittwoch, 2 November, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Mittwoch, 2 November, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>e24a4f29-1113-4f0f-96be-2227f8edf96b</uuid>  
+  <name>Leipzig</name>  
+  <valid_date_start>Sonntag, 17 Februar, 2013 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 17 Februar, 2013 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>2bfa37ef-7d21-4979-a1a4-a7628b6400d2</uuid>  
+  <name>Mainz</name>  
+  <valid_date_start>Sonntag, 25 März, 2012 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 25 März, 2012 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>516ccdd2-44ae-444c-b87e-314aa8a6b9c0</uuid>  
+  <name>Mansfeld-Südharz</name>  
+  <valid_date_start></valid_date_start>  
+  <valid_date_end></valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>52e556b8-0c00-42b9-b26d-f364a3a14c0f</uuid>  
+  <name>Mecklenburg-Vorpommern</name>  
+  <valid_date_start>Sonntag, 4 September, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 4 September, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>fefdaf93-ecb9-4d65-bfd9-85f83e7eeb52</uuid>  
+  <name>Mecklenburg-Vorpommern 2006-2011</name>  
+  <valid_date_start>Sonntag, 17 September, 2006 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 17 September, 2006 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>3bd943bd-f382-4a4f-a3fd-87fba5c35b91</uuid>  
+  <name>München</name>  
+  <valid_date_start>Samstag, 2 Mai, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Samstag, 2 Mai, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>4b6ad69c-7c84-477c-a750-e91d016c2541</uuid>  
+  <name>Niedersachsen</name>  
+  <valid_date_start>Dienstag, 19 Februar, 2013 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Dienstag, 19 Februar, 2013 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>d979729f-9356-44b2-8660-a6a4e958cc7d</uuid>  
+  <name>Niedersachsen 2008-2013</name>  
+  <valid_date_start>Dienstag, 26 Februar, 2008 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 20 Januar, 2013 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>9d92f9f0-2fc1-4279-8da0-60cc7939bca3</uuid>  
+  <name>Nordrhein-Westfalen</name>  
+  <valid_date_start>Sonntag, 13 Mai, 2012 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 13 Mai, 2012 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>b61d7370-098f-4e7f-ad56-c44e9fac7ff8</uuid>  
+  <name>Nordrhein-Westfalen 2005-2010</name>  
+  <valid_date_start>Sonntag, 22 Mai, 2005 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Donnerstag, 10 Juni, 2010 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>7d1b8c47-a1d5-4092-9f13-096fd6adf3c1</uuid>  
+  <name>Nordrhein-Westfalen 2010-2012</name>  
+  <valid_date_start>Mittwoch, 9 Juni, 2010 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 13 Mai, 2012 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>29a2532b-09cd-4c14-b163-b03bba333887</uuid>  
+  <name>Offenbach am Main</name>  
+  <valid_date_start>Montag, 2 Mai, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Montag, 2 Mai, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>1d76b2e0-449e-447c-8c13-9eba56f17524</uuid>  
+  <name>Osnabrück</name>  
+  <valid_date_start>Dienstag, 1 November, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Dienstag, 1 November, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>131453de-729e-46c9-8244-15a43b2e76fa</uuid>  
+  <name>Rheinland-Pfalz</name>  
+  <valid_date_start>Mittwoch, 18 Mai, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Mittwoch, 18 Mai, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>8d2c6213-3789-4785-b39c-74443aa87a07</uuid>  
+  <name>Rheinland-Pfalz 2006-2011</name>  
+  <valid_date_start>Sonntag, 26 März, 2006 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 26 März, 2006 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>05d2e02e-b708-4d08-9db5-664259f8a522</uuid>  
+  <name>Saarland</name>  
+  <valid_date_start>Sonntag, 25 März, 2012 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 25 März, 2012 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>06fe1e9a-a4e2-4185-8079-a2a6b23b6aa6</uuid>  
+  <name>Saarland 2009-2012</name>  
+  <valid_date_start>Sonntag, 30 August, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 30 August, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>e19542ed-9859-4c33-86b8-8d0fee3b6134</uuid>  
+  <name>Sachsen</name>  
+  <valid_date_start>Dienstag, 5 August, 2014 - 10:00, Dienstag, 11 November, 2014 - 11:00</valid_date_start>  
+  <valid_date_end>Sonntag, 31 August, 2014 - 18:00, Samstag, 11 November, 2017 - 11:00</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>b00e2c08-6732-495d-b793-3bdc76d69779</uuid>  
+  <name>Sachsen 2009-2014</name>  
+  <valid_date_start>Dienstag, 29 September, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Dienstag, 29 September, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>ef6a1ba8-0275-4a8f-ba1c-6e99b15e3b5f</uuid>  
+  <name>Sachsen-Anhalt</name>  
+  <valid_date_start>Sonntag, 20 März, 2011 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 20 März, 2011 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>5645b1d3-d095-44b5-8f53-52ed8fa8a2a6</uuid>  
+  <name>Sachsen-Anhalt 2006-2011</name>  
+  <valid_date_start>Sonntag, 26 März, 2006 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 26 März, 2006 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>1b2ae15f-7958-492f-833f-5fb919138e11</uuid>  
+  <name>Schleswig-Holstein</name>  
+  <valid_date_start>Montag, 21 Mai, 2012 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Montag, 21 Mai, 2012 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>d8f76a34-3380-42a5-a90b-44d1ed427c3a</uuid>  
+  <name>Schleswig-Holstein 2009-2012</name>  
+  <valid_date_start>Dienstag, 27 Oktober, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 6 Mai, 2012 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>877757ca-3d87-4ddd-ae97-94328f0e7651</uuid>  
+  <name>Solingen</name>  
+  <valid_date_start>Donnerstag, 29 Oktober, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Donnerstag, 29 Oktober, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>1e33bffe-e34e-462b-9ad4-818422cc7781</uuid>  
+  <name>Stuttgart</name>  
+  <valid_date_start>Sonntag, 21 Oktober, 2012 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 21 Oktober, 2012 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>fe9724db-f3fb-4425-b38b-589dae0a3760</uuid>  
+  <name>Thüringen</name>  
+  <valid_date_start>Dienstag, 5 August, 2014 - 10:00</valid_date_start>  
+  <valid_date_end>Samstag, 13 September, 2014 - 18:00</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>773c33a7-caaf-4a69-826c-96fbb9187a54</uuid>  
+  <name>Thüringen 2009-2014</name>  
+  <valid_date_start>Sonntag, 30 August, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Sonntag, 30 August, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>fa9af262-a053-4f1b-ac9e-ef342049d62b</uuid>  
+  <name>Wuppertal</name>  
+  <valid_date_start></valid_date_start>  
+  <valid_date_end></valid_date_end>  
+  </parliament>
+  <parliament>
+  <uuid>acf9086c-6289-4713-8b66-71563035eb4f</uuid>  
+  <name>Wuppertal (2009-2014)</name>  
+  <valid_date_start>Montag, 26 Oktober, 2009 (Ganztägig)</valid_date_start>  
+  <valid_date_end>Montag, 26 Oktober, 2009 (Ganztägig)</valid_date_end>  
+  </parliament>
+</parliaments>

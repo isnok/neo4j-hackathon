@@ -1,0 +1,633 @@
+edited,name,uuid,gender,first_name,last_name,party,parliament,education,questions_get,answers_give,url_profile
+2015-05-30 01:08,ulrike-ulli-nissen,0077079d-5136-4c5a-96c0-ef8ee76ccfe3,female,Ulrike (Ulli),Nissen,SPD,Bundestag,Bankkauffrau,0,0,https://www.abgeordnetenwatch.de/profile/ulrike-ulli-nissen
+2015-05-30 01:08,ursula-groden-kranich,014490fc-3403-4255-b92d-175816269937,female,Ursula,Groden-Kranich,CDU,Bundestag,Bankkauffrau,0,0,https://www.abgeordnetenwatch.de/profile/ursula-groden-kranich
+2015-05-15 01:08,max-straubinger,02da6707-6255-4c8b-8e80-818c2d732943,male,Max,Straubinger,CSU,Bundestag,"Versicherungsfachmann, Selbständiger Generalvertreter, Landwirtschaftsmeister",0,0,https://www.abgeordnetenwatch.de/profile/max-straubinger
+2015-05-20 01:08,michael-gros,037071c0-4cd0-4cf4-949d-4f46f38a378b,male,Michael,Groß,SPD,Bundestag,Geschäftsbereichsleiter,0,0,https://www.abgeordnetenwatch.de/profile/michael-gros
+2015-05-30 01:08,frank-heinrich,03a6c443-39f3-4cc4-8e47-bcae81104712,male,Frank,Heinrich,CDU,Bundestag,"Sozialpädagoge, Theologe",0,0,https://www.abgeordnetenwatch.de/profile/frank-heinrich
+2015-05-21 01:08,florian-post,040d4a72-e4dd-42eb-b6cc-cf6ab1a2fe3d,male,Florian,Post,SPD,Bundestag,Diplom-Kaufmann,0,0,https://www.abgeordnetenwatch.de/profile/florian-post
+2015-05-22 01:09,philipp-graf-von-und-zu-lerchenfeld,04243d07-fb08-4ae1-ae8c-8ab18920f623,male,Philipp Graf von und zu,Lerchenfeld,CSU,Bundestag,"Landwirt, Wirtschaftsprüfer, Steuerberater",0,0,https://www.abgeordnetenwatch.de/profile/philipp-graf-von-und-zu-lerchenfeld
+2015-05-17 01:08,burkhard-blienert,0471f04c-b565-49cf-8f6e-3f9438907b62,male,Burkhard,Blienert,SPD,Bundestag,"Studium der Politik, Neueren Geschichte und Soziologie (M.A.)",0,0,https://www.abgeordnetenwatch.de/profile/burkhard-blienert
+2015-05-12 00:00,klaus-dieter-grohler,04b9aad2-cf6c-4411-a27f-9fda675c5d3d,male,Klaus-Dieter,Gröhler,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/klaus-dieter-grohler
+2015-05-12 09:00,inge-hoger,04c458b6-9d8e-4729-b960-e0b54d4fc599,female,Inge,Höger,DIE LINKE,Bundestag,Diplom-Betriebswirtin (FH),0,0,https://www.abgeordnetenwatch.de/profile/inge-hoger
+2015-05-12 02:00,beate-muller-gemmeke,04eda6d0-0c3c-4d41-b453-6aefba1f5f40,female,Beate,Müller-Gemmeke,DIE GRÜNEN,Bundestag,Diplom-Sozialpädagogin,0,0,https://www.abgeordnetenwatch.de/profile/beate-muller-gemmeke
+2015-05-14 01:09,heike-baehrens,05b7d463-dd58-4b55-a7c2-31c718c249c4,female,Heike,Baehrens,SPD,Bundestag,"Bankkauffrau, Diplom-Religionspädagogin",0,0,https://www.abgeordnetenwatch.de/profile/heike-baehrens
+2015-05-12 00:00,ulla-jelpke,05d6cf89-1c30-4928-a182-be101d20de1d,female,Ulla,Jelpke,DIE LINKE,Bundestag,"Journalistin, Diplom-Soziologin, Volkswirtin",0,0,https://www.abgeordnetenwatch.de/profile/ulla-jelpke
+2015-05-22 01:08,erwin-ruddel,06639eae-5a69-4d5d-98c3-0d51ac529ed2,male,Erwin,Rüddel,CDU,Bundestag,Diplom-Betriebswirt,0,0,https://www.abgeordnetenwatch.de/profile/erwin-ruddel
+2015-05-12 00:00,herbert-behrens,06e73c0f-cdc4-409a-b6b2-ed56d35a173f,male,Herbert,Behrens,DIE LINKE,Bundestag,Gewerkschaftssekretär,0,0,https://www.abgeordnetenwatch.de/profile/herbert-behrens
+2015-05-22 01:08,andreas-schwarz,0755acc2-cc78-48ee-9351-3c6dbbc7e4c2,male,Andreas,Schwarz,SPD,Bundestag,Diplom-Betriebswirt,0,0,https://www.abgeordnetenwatch.de/profile/andreas-schwarz
+2015-05-12 02:00,alois-rainer,07871a7d-f3f6-4d7a-aa67-771677d7d137,male,Alois,Rainer,CSU,Bundestag,Metzgermeister,0,0,https://www.abgeordnetenwatch.de/profile/alois-rainer
+2015-05-13 01:08,andrej-hunko,079928ac-d8b2-4f2c-af06-60da4dc21299,male,Andrej,Hunko,DIE LINKE,Bundestag,Angestellter,0,0,https://www.abgeordnetenwatch.de/profile/andrej-hunko
+2015-05-31 01:08,alexander-funk,07e1a287-8581-49b4-91fb-f12ff05772b0,male,Alexander,Funk,CDU,Bundestag,Diplom-Kaufmann,0,0,https://www.abgeordnetenwatch.de/profile/alexander-funk
+2015-05-12 00:00,sylvia-jorrisen,0854e623-fe04-458b-b47d-db531dc649f2,female,Sylvia,Jörrißen,CDU,Bundestag,Bankfachwirtin,0,0,https://www.abgeordnetenwatch.de/profile/sylvia-jorrisen
+2015-05-12 02:00,peter-ramsauer,08554e2e-98c1-47a9-9f31-eddaadd8fd8b,male,Peter,Ramsauer,CSU,Bundestag,"Diplomkaufmann, Müllermeister",0,0,https://www.abgeordnetenwatch.de/profile/peter-ramsauer
+2015-05-12 01:00,ursula-schulte,08910732-bb47-46e4-9c4f-15d8b61a6dd0,female,Ursula,Schulte,SPD,Bundestag,Hausfrau,0,0,https://www.abgeordnetenwatch.de/profile/ursula-schulte
+2015-05-29 01:08,dr-ernst-dieter-rossmann,08a77da1-bc59-478b-9c4b-b6b50aa91134,male,Ernst-Dieter,Rossmann,SPD,Bundestag,Diplom-Psychologe,0,0,https://www.abgeordnetenwatch.de/profile/dr-ernst-dieter-rossmann
+2015-05-12 10:00,matthias-hauer,0972430d-6865-4038-8828-92653dabd5fa,male,Matthias,Hauer,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/matthias-hauer
+2015-05-12 00:00,kathrin-vogler,09ca3c47-18eb-4554-bfea-761ecaea2c32,female,Kathrin,Vogler,DIE LINKE,Bundestag,Geschäftsführerin,0,0,https://www.abgeordnetenwatch.de/profile/kathrin-vogler
+2015-05-28 12:10,gulistan-yuksel,0b08ea79-0554-4274-ab42-91d289e8160b,female,Gülistan,Yüksel,SPD,Bundestag,Pharmazeutisch-kaufmännische Assistentin,0,0,https://www.abgeordnetenwatch.de/profile/gulistan-yuksel
+2015-05-12 00:00,dagmar-ziegler,0c32f33f-144e-4b7a-8153-b3b0154a5606,female,Dagmar,Ziegler,SPD,Bundestag,Diplomfinanzökonomin,0,0,https://www.abgeordnetenwatch.de/profile/dagmar-ziegler
+2015-05-12 02:00,thomas-mahlberg,0d0e85ac-6bdb-4f34-abf3-211144aa033f,male,Thomas,Mahlberg,CDU,Bundestag,Kaufmännischer Angestellter,0,0,https://www.abgeordnetenwatch.de/profile/thomas-mahlberg
+2015-05-28 12:10,reinhard-grindel,0d6f8e65-1f9f-43c4-9c57-8bbe810742f9,male,Reinhard,Grindel,CDU,Bundestag,Fernsehjournalist,0,0,https://www.abgeordnetenwatch.de/profile/reinhard-grindel
+2015-05-20 01:08,michael-thews,0d7b9569-4448-4b82-959d-cc5a33892d20,male,Michael,Thews,SPD,Bundestag,Diplom Chemie-Ingenieur,0,0,https://www.abgeordnetenwatch.de/profile/michael-thews
+2015-05-31 01:08,michael-grosse-bromer,0deb02a5-2faf-4c93-ad27-3c2288c702b5,male,Michael,Grosse-Brömer,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/michael-grosse-bromer
+2015-05-20 01:08,karl-lauterbach,0e4c11a6-e6a0-4683-8b09-99105b96c05c,male,Karl,Lauterbach,SPD,Bundestag,Universitätsprofessor,0,0,https://www.abgeordnetenwatch.de/profile/karl-lauterbach
+2015-05-12 09:00,hartmut-koschyk,0e81acf2-6ef3-4885-8e21-b07798f6b5ee,male,Hartmut,Koschyk,CSU,Bundestag,Geschäftsführer,0,0,https://www.abgeordnetenwatch.de/profile/hartmut-koschyk
+2015-05-12 09:00,christian-lange-2,0ed28c9f-2f7a-4415-b73b-0c5fe42382c5,male,Christian,Lange,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/christian-lange-2
+2015-05-17 01:08,heidtrud-henn,1009c9c5-33aa-41dd-b99c-3da2bf47bc4c,female,Heidtrud,Henn,SPD,Bundestag,Diakonin,0,0,https://www.abgeordnetenwatch.de/profile/heidtrud-henn
+2015-05-14 01:08,mathias-middelberg,109fa4a4-854f-4339-ab4e-bdaab90d402e,male,Mathias,Middelberg,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/mathias-middelberg
+2015-05-29 01:08,halina-wawzyniak,10f56536-9f49-4f04-950f-98f2aaf47303,female,Halina,Wawzyniak,DIE LINKE,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/halina-wawzyniak
+2015-05-14 01:09,dr-dietmar-bartsch,11759fa9-6386-4f16-9a53-2c54d62d2b2f,male,Dietmar,Bartsch,DIE LINKE,Bundestag,Wirtschaftswissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/dr-dietmar-bartsch
+2015-05-12 00:00,stefan-zierke,11b5b514-a8ff-4bf4-bfbd-6ddf7b11fac7,male,Stefan,Zierke,SPD,Bundestag,"Werkzeugmacher, Touristikfachwirt",0,0,https://www.abgeordnetenwatch.de/profile/stefan-zierke
+2015-05-12 01:00,gerhard-schick,122ad63a-9531-43ae-bcba-24c0ce095c17,male,Gerhard,Schick,DIE GRÜNEN,Bundestag,Volkswirt,0,0,https://www.abgeordnetenwatch.de/profile/gerhard-schick
+2015-05-12 00:00,dipl-sozwiss-matthias-w-birkwald,123daaf7-a79e-4a1d-9cb1-7b42205ed102,male,Dipl.-Soz.Wiss. Matthias W.,Birkwald,DIE LINKE,Bundestag,Diplom-Sozialwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/dipl-sozwiss-matthias-w-birkwald
+2015-05-14 01:08,johannes-selle,1376d343-ba63-48e9-b2b9-abe66454caad,male,Johannes,Selle,CDU,Bundestag,Diplom-Mathematiker,0,0,https://www.abgeordnetenwatch.de/profile/johannes-selle
+2015-05-14 01:08,gerold-reichenbach,139cff2e-58a1-480f-a539-2959b80119c9,male,Gerold,Reichenbach,SPD,Bundestag,Gymnasiallehrer,0,0,https://www.abgeordnetenwatch.de/profile/gerold-reichenbach
+2015-05-13 01:08,jurgen-klimke,13c14a5b-df11-433e-8b04-02f631156d63,male,Jürgen,Klimke,CDU,Bundestag,Journalist,0,0,https://www.abgeordnetenwatch.de/profile/jurgen-klimke
+2015-05-12 09:00,karl-heinz-charles-m-huber,1459ece8-414a-42e8-b414-0431612d72ee,male,Karl-Heinz (Charles M.),Huber,CDU,Bundestag,"Zahntechniker, Filmschaffender, Autor, Berater für Afrikafragen",0,0,https://www.abgeordnetenwatch.de/profile/karl-heinz-charles-m-huber
+2015-05-12 01:00,bernd-rutzel,14f1105a-7da7-468e-aee0-8c769d49946f,male,Bernd,Rützel,SPD,Bundestag,Technischer Oberamtsrat,0,0,https://www.abgeordnetenwatch.de/profile/bernd-rutzel
+2015-05-12 11:00,sabine-dittmar,1544eb38-c6d9-4634-8003-bd900474961e,female,Sabine,Dittmar,SPD,Bundestag,Ärztin,0,0,https://www.abgeordnetenwatch.de/profile/sabine-dittmar
+2015-05-29 01:08,christina-schwarzer,15670662-721e-497c-a95e-bc6fab1b4f1b,female,Christina,Schwarzer,CDU,Bundestag,Property Manager,0,0,https://www.abgeordnetenwatch.de/profile/christina-schwarzer
+2015-05-31 01:08,alexander-ulrich,1578ef7e-464a-495d-9cfd-4109118cf124,male,Alexander,Ulrich,DIE LINKE,Bundestag,Gewerkschaftssekretär,0,0,https://www.abgeordnetenwatch.de/profile/alexander-ulrich
+2015-05-12 00:00,christian-freiherr-von-stetten,15e0cb5f-0680-4761-81ed-84751af80497,male,Christian Freiherr,von Stetten,CDU,Bundestag,Diplom-Betriebswirt (FH),0,0,https://www.abgeordnetenwatch.de/profile/christian-freiherr-von-stetten
+2015-05-29 01:08,rita-hagl-kehl,16680bd9-f029-4e62-a192-fa48f8fc3945,female,Rita,Hagl-Kehl,SPD,Bundestag,"Studium der Politikwissenschaften, Lehramt (Deutsch/Geschichte)",0,0,https://www.abgeordnetenwatch.de/profile/rita-hagl-kehl
+2015-05-12 02:00,dr-jan-marco-luczak,16c78a8e-93f7-4cf1-a88f-81cee6acaccf,male,Jan-Marco,Luczak,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/dr-jan-marco-luczak
+2015-05-31 01:08,dr-thomas-feist,1717bb31-a8c3-47f1-a4e4-3c8b52b35ee4,male,Thomas,Feist,CDU,Bundestag,Kulturreferent,0,0,https://www.abgeordnetenwatch.de/profile/dr-thomas-feist
+2015-05-30 01:08,niema-movassat,17735273-6051-41c9-840a-d358e0852158,male,Niema,Movassat,DIE LINKE,Bundestag,Diplom-Jurist,0,0,https://www.abgeordnetenwatch.de/profile/niema-movassat
+2015-05-12 01:00,tino-sorge,17afe0e7-c1b4-4cef-8f1e-70d61a22f806,male,Tino,Sorge,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/tino-sorge
+2015-05-22 01:09,christian-petry,17bcc1da-48c8-47aa-aabc-8834df234ef6,male,Christian,Petry,SPD,Bundestag,Diplom-Verwaltungswirt,0,0,https://www.abgeordnetenwatch.de/profile/christian-petry
+2015-05-12 01:00,thomas-stritzl,184d1d88-deb2-413c-8d81-c268500370bb,male,Thomas,Stritzl,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/thomas-stritzl
+2015-05-23 01:08,peer-steinbruck,19ea2b6e-fe89-44d2-912d-be78286d9a71,male,Peer,Steinbrück,SPD,Bundestag,Diplom-Volkswirt,0,0,https://www.abgeordnetenwatch.de/profile/peer-steinbruck
+2015-05-24 01:08,markus-paschke,1a375881-f079-47a9-acb3-49c6e7f94c57,male,Markus,Paschke,SPD,Bundestag,Gewerkschaftssekretär,0,0,https://www.abgeordnetenwatch.de/profile/markus-paschke
+2015-05-23 01:08,dr-diether-dehm,1a514c99-6e93-4736-96e3-0857a6b67877,male,Diether,Dehm,DIE LINKE,Bundestag,"Autor, Geschäftsführer",0,0,https://www.abgeordnetenwatch.de/profile/dr-diether-dehm
+2015-05-12 11:00,barbel-bas,1a8bb92c-b1ce-4eb7-a8b4-334db7044e5e,female,Bärbel,Bas,SPD,Bundestag,Personalmanagementökonomin,0,0,https://www.abgeordnetenwatch.de/profile/barbel-bas
+2015-05-27 01:08,wolfgang-hellmich,1bb77774-9d89-4ace-ab9f-fe14dce83b9d,male,Wolfgang,Hellmich,SPD,Bundestag,Geschäftsführer,0,0,https://www.abgeordnetenwatch.de/profile/wolfgang-hellmich
+2015-05-25 01:08,daniela-ludwig,1bd56256-9336-46fd-a3f6-e9abf62d7635,female,Daniela,Ludwig,CSU,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/daniela-ludwig
+2015-05-12 09:00,andreas-lammel,1c74a893-6f48-45ca-ae00-7bbb55422499,male,Andreas,Lämmel,CDU,Bundestag,"Konditor, Diplom-Ingenieur (FH)",0,0,https://www.abgeordnetenwatch.de/profile/andreas-lammel
+2015-05-11 23:01,dr-silke-launert,1c75f5b0-9428-491c-a7ea-229f3b47e662,female,Silke,Launert,CSU,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/dr-silke-launert
+2015-05-23 01:08,matern-von-marschall,1c7c1828-35ad-425d-a287-95372b7a2a44,male,Matern von,Marschall,CDU,Bundestag,Verleger,0,0,https://www.abgeordnetenwatch.de/profile/matern-von-marschall
+2015-05-12 10:00,fritz-guntzler,1c8bbd74-6f0b-4cc0-9e36-ff7ed353e6ff,male,Fritz,Güntzler,CDU,Bundestag,"Wirtschaftsprüfer, Steuerberater",0,0,https://www.abgeordnetenwatch.de/profile/fritz-guntzler
+2015-05-11 23:01,heinrich-zertik,1d8c156d-8c4f-4736-80a0-1fbc20e49e4a,male,Heinrich,Zertik,CDU,Bundestag,Diplom Psychologe,0,0,https://www.abgeordnetenwatch.de/profile/heinrich-zertik
+2015-05-29 01:08,lars-klingbeil,1f7c1218-898a-4abb-b09c-e3a63c927ee2,male,Lars,Klingbeil,SPD,Bundestag,"Studium der Politischen Wissenschaft, der Soziologie und der Geschichte (M.A.).",0,0,https://www.abgeordnetenwatch.de/profile/lars-klingbeil
+2015-05-15 01:08,wolfgang-bosbach,1ff5f96a-082c-4f4d-aa05-3bf1a43b9856,male,Wolfgang,Bosbach,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/wolfgang-bosbach
+2015-05-22 01:08,bartholomaus-kalb,2085f5c7-3144-43ba-80c7-3ebd8d2af88b,male,Bartholomäus,Kalb,CSU,Bundestag,"Industriekaufmann, Landwirt",0,0,https://www.abgeordnetenwatch.de/profile/bartholomaus-kalb
+2015-05-11 23:01,dr-jens-zimmermann,209f93f7-05da-42a0-a88a-3acefca9e455,male,Jens,Zimmermann,SPD,Bundestag,Diplom-Kaufmann,0,0,https://www.abgeordnetenwatch.de/profile/dr-jens-zimmermann
+2015-05-12 00:00,doris-wagner,20b8739e-f15a-4294-a74b-fe09a0798d5d,female,Doris,Wagner,DIE GRÜNEN,Bundestag,Büroleitung,0,0,https://www.abgeordnetenwatch.de/profile/doris-wagner
+2015-05-12 00:00,birgit-wollert,211ab867-ade9-4769-b221-e1dee782e325,female,Birgit,Wöllert,DIE LINKE,Bundestag,Diplomlehrerin,0,0,https://www.abgeordnetenwatch.de/profile/birgit-wollert
+2015-05-12 10:00,ingrid-fischbach,211c542f-4cbd-48d7-b84c-84ea06e64d53,female,Ingrid,Fischbach,CDU,Bundestag,Lehrerin,0,0,https://www.abgeordnetenwatch.de/profile/ingrid-fischbach
+2015-05-12 10:00,michael-hartmann,212e00bc-f14b-40a3-af0a-50d49317c479,male,Michael,Hartmann,SPD,Bundestag,"Studium der Politikwissenschaft, Soziologie und der deutschen Volkskunde",0,0,https://www.abgeordnetenwatch.de/profile/michael-hartmann
+2015-05-12 10:00,matthias-gastel,223c719c-4233-40e6-9409-682ab523c73f,male,Matthias,Gastel,DIE GRÜNEN,Bundestag,Selbstständiger Wirtschaftsmediator,0,0,https://www.abgeordnetenwatch.de/profile/matthias-gastel
+2015-05-21 01:09,hiltrud-lotze,228f480d-6bf0-4df0-ba99-aea9ef621a87,female,Hiltrud,Lotze,SPD,Bundestag,Kulturwissenschaftlerin (M.A.),0,0,https://www.abgeordnetenwatch.de/profile/hiltrud-lotze
+2015-05-12 00:00,dirk-vopel,22bdef04-58be-4c1c-a795-448f7db42ffe,male,Dirk,Vöpel,SPD,Bundestag,Geschäftsführer,0,0,https://www.abgeordnetenwatch.de/profile/dirk-vopel
+2015-05-21 01:09,dr-philipp-lengsfeld,238cf11c-5f68-4b90-b03b-4b29aeabd34e,male,Philipp,Lengsfeld,CDU,Bundestag,Physiker,0,0,https://www.abgeordnetenwatch.de/profile/dr-philipp-lengsfeld
+2015-05-31 01:08,sigmar-gabriel,24d4c84c-5c05-42c7-8797-fd2e3316dd06,male,Sigmar,Gabriel,SPD,Bundestag,Gymnasiallehrer,0,0,https://www.abgeordnetenwatch.de/profile/sigmar-gabriel
+2015-05-12 11:00,peter-bleser,255f6385-272b-4cf7-800b-f94f7d80fa62,male,Peter,Bleser,CDU,Bundestag,Landwirtschaftsmeister,0,0,https://www.abgeordnetenwatch.de/profile/peter-bleser
+2015-05-17 01:08,rita-schwarzeluhr-sutter,25b466cc-9176-4608-ada3-f1a163d61262,female,Rita,Schwarzelühr-Sutter,SPD,Bundestag,Diplom-Betriebswirtin,0,0,https://www.abgeordnetenwatch.de/profile/rita-schwarzeluhr-sutter
+2015-05-30 01:09,volker-beck,2623651c-946e-4f66-9dc8-2e6f3e997d3d,male,Volker,Beck,DIE GRÜNEN,Bundestag,"Studium der Geschichte, Kunstgeschichte und Germanistik",0,0,https://www.abgeordnetenwatch.de/profile/volker-beck
+2015-05-15 01:08,franz-josef-jung,2641f475-f698-4c1d-bc81-400fbef5e3b3,male,Franz-Josef,Jung,CDU,Bundestag,Jurist und Notar,0,0,https://www.abgeordnetenwatch.de/profile/franz-josef-jung
+2015-05-22 01:09,cemile-giousouf,275c86bc-7a42-44e0-ad84-029723da03bd,female,Cemile,Giousouf,CDU,Bundestag,Referentin Landesministerium NRW,0,0,https://www.abgeordnetenwatch.de/profile/cemile-giousouf
+2015-05-12 02:00,patricia-lips,2847df61-ab0c-4e99-91b9-b24113ebb142,female,Patricia,Lips,CDU,Bundestag,Handelsfachwirtin,0,0,https://www.abgeordnetenwatch.de/profile/patricia-lips
+2015-05-29 01:08,eckhard-pols,28e41048-2f49-45cb-bdde-1707bdacbbb2,male,Eckhard,Pols,CDU,Bundestag,Glasermeister,0,0,https://www.abgeordnetenwatch.de/profile/eckhard-pols
+2015-05-31 01:08,volkmar-klein,28f0fee3-23a1-4660-af46-22ccc0e1ca1e,male,Volkmar,Klein,CDU,Bundestag,Diplom-Volkswirt,0,0,https://www.abgeordnetenwatch.de/profile/volkmar-klein
+2015-05-12 11:00,thomas-dorflinger,290327cb-2add-49ab-aa6d-aecc923b4d2d,male,Thomas,Dörflinger,CDU,Bundestag,Redakteur,0,0,https://www.abgeordnetenwatch.de/profile/thomas-dorflinger
+2015-05-31 01:08,jorg-hellmuth,299d7b3a-7fb1-4279-807c-ef9dfd97ae2a,male,Jörg,Hellmuth,CDU,Bundestag,Diplom-Agraringenieur,0,0,https://www.abgeordnetenwatch.de/profile/jorg-hellmuth
+2015-05-14 01:08,klaus-peter-flosbach,29cd559a-668f-4068-8fb8-4f0cd482ebb9,male,Klaus-Peter,Flosbach,CDU,Bundestag,"Diplom-Kaufmann, selbständiger Wirtschaftsberater",0,0,https://www.abgeordnetenwatch.de/profile/klaus-peter-flosbach
+2015-05-12 09:00,dr-andreas-lenz,2a1f5c25-d75c-404a-a270-739c47c20a26,male,Andreas,Lenz,CSU,Bundestag,Kreisrat; Bankkaufmann; Diplom-Betriebswirt (FH),0,0,https://www.abgeordnetenwatch.de/profile/dr-andreas-lenz
+2015-05-12 11:00,veronika-bellmann,2a682bb9-429f-48a9-8b92-3c208fa48176,female,Veronika,Bellmann,CDU,Bundestag,"Verwaltungs-Betriebswirtin, Fachkauffrau für Marketing/Vertrieb (VWA)",0,0,https://www.abgeordnetenwatch.de/profile/veronika-bellmann
+2015-05-12 01:00,jan-van-aken,2b0cb1ad-aeed-4d56-b78e-e7571471bd9b,male,Jan,van Aken,DIE LINKE,Bundestag,Biologe,0,0,https://www.abgeordnetenwatch.de/profile/jan-van-aken
+2015-05-15 01:08,hendrik-hoppenstedt,2b5bd656-500c-4b3c-85bb-df7f5f870e52,male,Hendrik,Hoppenstedt,CDU,Bundestag,"Bürgermeister a.D., Rechtsanwalt",0,0,https://www.abgeordnetenwatch.de/profile/hendrik-hoppenstedt
+2015-05-28 12:10,caren-lay,2b5c57f7-25ab-4345-b1d4-e2f4cd3fe34e,female,Caren,Lay,DIE LINKE,Bundestag,Diplom-Soziologin,0,0,https://www.abgeordnetenwatch.de/profile/caren-lay
+2015-05-30 01:08,dr-konstantin-von-notz,2b69f12f-1b75-40f6-a69a-77c7c1a3b6f6,male,Konstantin,von Notz,DIE GRÜNEN,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/dr-konstantin-von-notz
+2015-05-13 01:08,annalena-baerbock,2b9ba317-718e-4034-bd13-82463f863535,female,Annalena,Baerbock,DIE GRÜNEN,Bundestag,Völkerrechtlerin,0,0,https://www.abgeordnetenwatch.de/profile/annalena-baerbock
+2015-05-31 01:08,renate-kunast,2c7dec60-1328-410d-907d-2f47683782a6,female,Renate,Künast,DIE GRÜNEN,Bundestag,"Rechtsanwältin, Sozialarbeiterin",0,0,https://www.abgeordnetenwatch.de/profile/renate-kunast
+2015-05-12 11:00,ralph-brinkhaus,2e6240fc-557d-4f27-a00d-8ca5781e33a8,male,Ralph,Brinkhaus,CDU,Bundestag,"Diplom-Ökonom, Steuerberater",0,0,https://www.abgeordnetenwatch.de/profile/ralph-brinkhaus
+2015-05-12 01:00,rita-stockhofe,2e96db38-c6dd-41d0-afba-5e239453841e,female,Rita,Stockhofe,CDU,Bundestag,Mitarbeiterin im landw. Familienunternehmen,0,0,https://www.abgeordnetenwatch.de/profile/rita-stockhofe
+2015-05-29 01:08,kai-wegner,2ebd1527-280e-4ff1-af67-f2181cbef53e,male,Kai,Wegner,CDU,Bundestag,Versicherungskaufmann,0,0,https://www.abgeordnetenwatch.de/profile/kai-wegner
+2015-05-11 23:01,johann-wadephul,2ebe1597-55b6-4bb1-aa4d-2c27a473b60f,male,Johann,Wadephul,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/johann-wadephul
+2015-05-23 01:08,dr-tim-ostermann,2f9af274-b1ca-4abe-9e4f-e43c835d1b5b,male,Tim,Ostermann,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/dr-tim-ostermann
+2015-05-31 01:08,klaus--peter-willsch,2fd800a8-7246-4c0b-ac5f-461753f42937,male,Klaus- Peter,Willsch,CDU,Bundestag,Diplom-Volkswirt,0,0,https://www.abgeordnetenwatch.de/profile/klaus--peter-willsch
+2015-05-12 00:00,martina-renner,30139fef-68fb-44da-9af1-5c49ee3582b3,female,Martina,Renner,DIE LINKE,Bundestag,wissenschaftliche Mitarbeiterin,0,0,https://www.abgeordnetenwatch.de/profile/martina-renner
+2015-05-12 09:00,arno-klare,3031df58-85fa-4b68-8fa7-359fcdc94253,male,Arno,Klare,SPD,Bundestag,Geschäftsführer,0,0,https://www.abgeordnetenwatch.de/profile/arno-klare
+2015-05-12 09:00,alois-karl,310dd30a-8e90-4ead-b258-4514ad727a69,male,Alois,Karl,CSU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/alois-karl
+2015-05-11 23:01,sven-volmering,32497780-9e8f-4992-a49d-0ce1570ee406,male,Sven,Volmering,CDU,Bundestag,"Oberstudienrat, Politikwissenschaftler",0,0,https://www.abgeordnetenwatch.de/profile/sven-volmering
+2015-05-12 01:00,frank-tempel,326bdb45-c2c8-4b2d-9552-6145b2f17e65,male,Frank,Tempel,DIE LINKE,Bundestag,Kriminalbeamter,0,0,https://www.abgeordnetenwatch.de/profile/frank-tempel
+2015-05-22 01:09,angelika-glockner,328efe59-1e4a-45c4-bdc7-71c928b56985,female,Angelika,Glöckner,SPD,Bundestag,Verwaltungsgachwirtin,0,0,https://www.abgeordnetenwatch.de/profile/angelika-glockner
+2015-05-12 01:00,norbert-rottgen,32f35b1b-9160-4275-9042-346103e05fd0,male,Norbert,Röttgen,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/norbert-rottgen
+2015-05-21 01:09,dieter-janecek,331e800b-eac8-4814-b2fe-3f011b7a7b2d,male,Dieter,Janecek,DIE GRÜNEN,Bundestag,Politikwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/dieter-janecek
+2015-05-24 01:08,tom-koenigs,333cffc3-cf28-4436-8684-6e32e7fea9aa,male,Tom,Koenigs,DIE GRÜNEN,Bundestag,Betriebswirt,0,0,https://www.abgeordnetenwatch.de/profile/tom-koenigs
+2015-05-18 01:08,karin-binder,3393965b-48af-435e-bcdc-1249264a013c,female,Karin,Binder,DIE LINKE,Bundestag,"Handelsfachwirtin, Gewerkschaftssekretärin",0,0,https://www.abgeordnetenwatch.de/profile/karin-binder
+2015-05-21 01:08,franz-thonnes,339a7ddf-7744-4604-938c-de8746fa2d49,male,Franz,Thönnes,SPD,Bundestag,Industriekaufmann,0,0,https://www.abgeordnetenwatch.de/profile/franz-thonnes
+2015-05-22 01:09,anette-kramme,33a3c93a-328d-4777-ae65-13e7b7940b86,female,Anette,Kramme,SPD,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/anette-kramme
+2015-05-12 10:00,robert-hochbaum,346eff14-144d-4159-b73c-2847f7a69d4c,male,Robert,Hochbaum,CDU,Bundestag,"Diplomverwaltungswirt, Leiter eines Arbeitsamtes",0,0,https://www.abgeordnetenwatch.de/profile/robert-hochbaum
+2015-05-17 01:08,ingo-wellenreuther,349355d2-7297-4597-9e3e-2a2d8f71aa8c,male,Ingo,Wellenreuther,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/ingo-wellenreuther
+2015-05-31 01:08,kerstin-tack,3583b7cf-35c2-4bd2-8fab-ec4561cd28d1,female,Kerstin,Tack,SPD,Bundestag,Diplom-Sozialpädagogin,0,0,https://www.abgeordnetenwatch.de/profile/kerstin-tack
+2015-05-15 01:08,azize-tank,35f5b6b7-9c86-4c26-a215-525dd20a84d8,female,Azize,Tank,DIE LINKE,Bundestag,Migrantenbeauftragte a.D.,0,0,https://www.abgeordnetenwatch.de/profile/azize-tank
+2015-05-24 01:08,karin-maag,362a882e-eae1-49ad-bb56-366d9d68abad,female,Karin,Maag,CDU,Bundestag,"Ministerialdirigentin, Juristin",0,0,https://www.abgeordnetenwatch.de/profile/karin-maag
+2015-05-12 02:00,gerd-muller-2,36312a69-bdf7-4d3c-8d3a-2aa655d4c8a8,male,Gerd,Müller,CSU,Bundestag,Diplomwirtschaftspädagoge,0,0,https://www.abgeordnetenwatch.de/profile/gerd-muller-2
+2015-05-21 01:09,hubertus-heil,36ca0b45-9abd-4dbf-bb46-8208d934bb47,male,Hubertus,Heil,SPD,Bundestag,Politikwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/hubertus-heil
+2015-05-28 12:10,florian-osner,36da5bdf-c10d-434f-912e-6661672517ce,male,Florian,Oßner,CSU,Bundestag,"Dipl.-Volkswirt (Uni), Risikomanagement",0,0,https://www.abgeordnetenwatch.de/profile/florian-osner
+2015-05-26 01:08,steffen-bilger,36e162be-1f1b-431f-ab9a-d0574ac43064,male,Steffen,Bilger,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/steffen-bilger
+2015-05-14 01:08,tankred-schipanski,371dd6bb-5aa4-4524-a8bf-09cc6060d56c,male,Tankred,Schipanski,CDU,Bundestag,"Wissenschaftlicher Mitarbeiter, Rechtsanwalt",0,0,https://www.abgeordnetenwatch.de/profile/tankred-schipanski
+2015-05-12 00:00,sabine-zimmermann,3725c235-14d8-49c4-b207-e4c0e5ae9412,female,Sabine,Zimmermann,DIE LINKE,Bundestag,Baustofftechnologin,0,0,https://www.abgeordnetenwatch.de/profile/sabine-zimmermann
+2015-05-31 01:08,martin-dormann,3818348d-c1b4-4f3b-b760-da41bd7a290b,male,Martin,Dörmann,SPD,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/martin-dormann
+2015-05-22 01:09,anette-hubinger,38a43f06-5ecd-4b98-86de-bc1ce932c53e,female,Anette,Hübinger,CDU,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/anette-hubinger
+2015-05-14 01:08,dr-nina-scheer,399ea241-61a7-42c0-a084-c93eea1d5103,female,Nina,Scheer,SPD,Bundestag,Politikwissenschaftlerin (Dr. rer.pol.),0,0,https://www.abgeordnetenwatch.de/profile/dr-nina-scheer
+2015-05-29 01:08,barbara-hendricks,3a875c69-6d09-49e2-af70-80928e1b7c92,female,Barbara,Hendricks,SPD,Bundestag,Historikerin,0,0,https://www.abgeordnetenwatch.de/profile/barbara-hendricks
+2015-05-27 01:08,stephan-kuhn,3ae2ace3-60f5-4dfc-8e5e-5937e0adaade,male,Stephan,Kühn,DIE GRÜNEN,Bundestag,Diplom-Soziologe,0,0,https://www.abgeordnetenwatch.de/profile/stephan-kuhn
+2015-05-26 01:08,dr-hans-ulrich-kruger,3af34426-d091-49d7-8935-14a01cc04cb2,male,Hans-Ulrich,Krüger,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/dr-hans-ulrich-kruger
+2015-05-12 00:00,thomas-viesehon,3af3b741-7ba5-4474-a785-844b2d1e07ed,male,Thomas,Viesehon,CDU,Bundestag,Bankkaufmann,0,0,https://www.abgeordnetenwatch.de/profile/thomas-viesehon
+2015-05-12 09:00,katrin-kunert,3af70d00-a06c-442a-9fa8-3e322a439e7b,female,Katrin,Kunert,DIE LINKE,Bundestag,Diplom-Ingenieurin (FH),0,0,https://www.abgeordnetenwatch.de/profile/katrin-kunert
+2015-05-11 23:01,katrin-albsteiger,3b2775f2-ecc8-4a87-8e98-c6859692acad,female,Katrin,Albsteiger,CSU,Bundestag,Diplom-Politologin,0,0,https://www.abgeordnetenwatch.de/profile/katrin-albsteiger
+2015-05-15 01:08,oliver-grundmann,3c336dc2-aefe-4c35-8158-126eb148b531,male,Oliver,Grundmann,CDU,Bundestag,"Geschäftsführer, Rechtsanwalt",0,0,https://www.abgeordnetenwatch.de/profile/oliver-grundmann
+2015-05-14 01:08,norbert-spinrath,3ce4110a-6e72-4b1e-b123-ced345a1b9a6,male,Norbert,Spinrath,SPD,Bundestag,Polizeibeamter,0,0,https://www.abgeordnetenwatch.de/profile/norbert-spinrath
+2015-05-12 00:00,pia-zimmermann,3d1acc48-c269-4f90-b07f-a8e1351caf0e,female,Pia,Zimmermann,DIE LINKE,Bundestag,Mediengestalterin,0,0,https://www.abgeordnetenwatch.de/profile/pia-zimmermann
+2015-05-12 11:00,hansjorg-durz,3e2c7d92-66f3-4821-ae20-bc1ba9f5410d,male,Hansjörg,Durz,CSU,Bundestag,"Bürgermeister a.D., Diplom Kaufmann",0,0,https://www.abgeordnetenwatch.de/profile/hansjorg-durz
+2015-05-15 01:08,dr-sascha-raabe,3f12a5e1-7df3-486b-a199-b8ee518754ce,male,Sascha,Raabe,SPD,Bundestag,Bürgermeister a. D.,0,0,https://www.abgeordnetenwatch.de/profile/dr-sascha-raabe
+2015-05-12 09:00,dr-tobias-lindner,3f5ee562-43e9-4d45-a81d-c13388a6c808,male,Tobias,Lindner,DIE GRÜNEN,Bundestag,Wirtschaftswissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/dr-tobias-lindner
+2015-05-22 01:08,hermann-grohe,3f6987a6-de3b-438b-81cf-3295255848c4,male,Hermann,Gröhe,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/hermann-grohe
+2015-05-30 01:08,caren-marks,3f886667-48b9-45f6-b1c1-f46cfd2c3c2b,female,Caren,Marks,SPD,Bundestag,Diplom-Geographin,0,0,https://www.abgeordnetenwatch.de/profile/caren-marks
+2015-05-20 01:08,harald-weinberg,4000e973-c360-4906-8ccc-05ffef93a0b8,male,Harald,Weinberg,DIE LINKE,Bundestag,Bildungsberater,0,0,https://www.abgeordnetenwatch.de/profile/harald-weinberg
+2015-05-14 01:08,reinhold-sendker,402fcdc6-aeb7-4266-8963-70d247f8b4a8,male,Reinhold,Sendker,CDU,Bundestag,"Studiendirektor am Berufskolleg, Diplom-Betriebswirt",0,0,https://www.abgeordnetenwatch.de/profile/reinhold-sendker
+2015-05-12 10:00,uli-grotsch,40b252be-991c-4c0a-867c-708d12defd26,male,Uli,Grötsch,SPD,Bundestag,Polizeibeamter,0,0,https://www.abgeordnetenwatch.de/profile/uli-grotsch
+2015-05-12 01:00,udo-schiefner,411ec4ad-e6cd-4fd2-91f4-b057f16d39da,male,Udo,Schiefner,SPD,Bundestag,Technischer Angestellter Qualitätssicherung,0,0,https://www.abgeordnetenwatch.de/profile/udo-schiefner
+2015-05-12 02:00,andreas-rimkus,41571192-5409-4c0c-80f7-c3f59bdcfb60,male,Andreas,Rimkus,SPD,Bundestag,Elektromeister in der Energiewirtschaft,0,0,https://www.abgeordnetenwatch.de/profile/andreas-rimkus
+2015-05-30 01:08,marcus-weinberg,41a29daa-da1f-450d-a15d-8894e2290d40,male,Marcus,Weinberg,CDU,Bundestag,Lehrer,0,0,https://www.abgeordnetenwatch.de/profile/marcus-weinberg
+2015-05-31 01:08,volker-kauder,42472302-64fa-4269-a9a5-b4cc42f8fb26,male,Volker,Kauder,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/volker-kauder
+2015-05-31 01:08,albert-stegemann,42ada060-4959-4a87-8d90-63e4b09e8a08,male,Albert,Stegemann,CDU,Bundestag,Landwirtschaftsmeister,0,0,https://www.abgeordnetenwatch.de/profile/albert-stegemann
+2015-05-27 01:08,wolfgang-gehrcke,43fa3f73-9135-4d27-82ff-aa1d2be51b2e,male,Wolfgang,Gehrcke,DIE LINKE,Bundestag,Verwaltungsangestellter,0,0,https://www.abgeordnetenwatch.de/profile/wolfgang-gehrcke
+2015-05-12 11:00,dr-thomas-de-maiziere,44ce7de9-84e8-446c-ab00-eeaa5a5f9bbb,male,Thomas,de Maizière,CDU,Bundestag,"Bundesminister des Innern, Bundesminister der Verteidigung a.D.",0,0,https://www.abgeordnetenwatch.de/profile/dr-thomas-de-maiziere
+2015-05-21 01:08,ewald-schurer,4550574e-7ba0-4411-80a3-f52f8b955e17,male,Ewald,Schurer,SPD,Bundestag,Diplom-Betriebswirt,0,0,https://www.abgeordnetenwatch.de/profile/ewald-schurer
+2015-05-30 01:08,michaela-engelmeier,456b6207-56bb-492e-be5e-eb21a9a73999,female,Michaela,Engelmeier,SPD,Bundestag,"Staatl. geprüfte und anerkannte Erzieherin, Judolehrerin",0,0,https://www.abgeordnetenwatch.de/profile/michaela-engelmeier
+2015-05-12 11:00,luise-amtsberg,45a629e8-20f6-4656-9a59-6088a3f495e9,female,Luise,Amtsberg,DIE GRÜNEN,Bundestag,Islamwissenschaftlerin,0,0,https://www.abgeordnetenwatch.de/profile/luise-amtsberg
+2015-05-23 01:08,mahmut-ozdemir,467895af-c7b8-45df-b50b-109a8ef94ff1,male,Mahmut,Özdemir,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/mahmut-ozdemir
+2015-05-12 10:00,ulrich-freese,475e40f0-363d-477c-b7bb-8162145f9731,male,Ulrich,Freese,SPD,Bundestag,Gewerkschaftssekretär,0,0,https://www.abgeordnetenwatch.de/profile/ulrich-freese
+2015-05-30 01:08,dr-sahra-wagenknecht,47b3e404-b468-4b6d-b74b-e696c6378f9c,female,Sahra,Wagenknecht,DIE LINKE,Bundestag,Volkswirtin,0,0,https://www.abgeordnetenwatch.de/profile/dr-sahra-wagenknecht
+2015-05-27 01:08,ulrich-lange,48d99110-b721-4c93-9ba6-42bc71206858,male,Ulrich,Lange,CSU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/ulrich-lange
+2015-05-21 01:08,matthias-schmidt,48f2db64-edf5-4257-9cbc-e2a5e72089c7,male,Matthias,Schmidt,SPD,Bundestag,Beamter,0,0,https://www.abgeordnetenwatch.de/profile/matthias-schmidt
+2015-05-11 23:01,dr-astrid-freudenstein,490d12bc-2866-4501-b3da-9428707f0cb0,female,Astrid,Freudenstein,CSU,Bundestag,"Studium der Germanistik, Geographie",0,0,https://www.abgeordnetenwatch.de/profile/dr-astrid-freudenstein
+2015-05-12 11:00,helmut-gunter-baumann,496c3f79-97b8-418a-8642-57d2ac90d412,male,Helmut Günter,Baumann,CDU,Bundestag,Diplom-Ingenieur für Textiltechnologie,0,0,https://www.abgeordnetenwatch.de/profile/helmut-gunter-baumann
+2015-05-11 23:01,dr-bernd-bernhard-fabritius,49e9a8fc-9291-471a-ba6c-a8b92551f2cf,male,Bernd-Bernhard,Fabritius,CSU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/dr-bernd-bernhard-fabritius
+2015-05-22 01:09,olav-gutting,4a078744-06fa-4055-8018-c5c9e59ff089,male,Olav,Gutting,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/olav-gutting
+2015-05-12 10:00,saskia-esken,4a3713ce-c62a-464e-b5be-3a132afa6356,female,Saskia,Esken,SPD,Bundestag,staatl. gepr. Informatikerin,0,0,https://www.abgeordnetenwatch.de/profile/saskia-esken
+2015-05-12 09:00,ingbert-liebing,4a891200-4bd8-4286-8a50-eb3d953132f3,male,Ingbert,Liebing,CDU,Bundestag,Bürgermeister a. D.,0,0,https://www.abgeordnetenwatch.de/profile/ingbert-liebing
+2015-05-17 01:08,claudia-roth,4ab9f88c-a914-42c0-a691-8d9b00ca8350,female,Claudia,Roth,DIE GRÜNEN,Bundestag,Dramaturgin,0,0,https://www.abgeordnetenwatch.de/profile/claudia-roth
+2015-05-12 00:00,prof-dr-matthias-zimmer,4b2fcce2-5cd3-490e-9a2a-f94e128d8de6,male,Matthias,Zimmer,CDU,Bundestag,Angestellter,0,0,https://www.abgeordnetenwatch.de/profile/prof-dr-matthias-zimmer
+2015-05-31 01:08,ulrich-wolfgang-kelber,4b844b28-4b3a-4332-a454-1a10dbf95843,male,Ulrich Wolfgang,Kelber,SPD,Bundestag,Diplom-Informatiker,0,0,https://www.abgeordnetenwatch.de/profile/ulrich-wolfgang-kelber
+2015-05-24 01:08,dagmar-freitag,4c7ac1ef-31b1-40f7-9960-49427bd411c8,female,Dagmar,Freitag,SPD,Bundestag,Lehrerin,0,0,https://www.abgeordnetenwatch.de/profile/dagmar-freitag
+2015-05-12 09:00,carsten-korber,4d04758f-6040-4056-8b43-e3565723a365,male,Carsten,Körber,CDU,Bundestag,Wirtschafts- und Unternehmensberater,0,0,https://www.abgeordnetenwatch.de/profile/carsten-korber
+2015-05-12 00:00,oliver-kaczmarek,4d67405e-401e-43ea-9d57-24257abc5784,male,Oliver,Kaczmarek,SPD,Bundestag,Oberregierungsrat,0,0,https://www.abgeordnetenwatch.de/profile/oliver-kaczmarek
+2015-05-18 14:33,dagmar-schmidt,4d72b2e5-3c5a-4182-8965-2f9d4411ebb2,female,Dagmar,Schmidt,SPD,Bundestag,"Historikerin, (Parl. Referentin)",0,0,https://www.abgeordnetenwatch.de/profile/dagmar-schmidt
+2015-05-12 00:00,hubertus-zdebel,4db9d8e3-32f0-4a04-9060-c20787badd80,male,Hubertus,Zdebel,DIE LINKE,Bundestag,Journalist,0,0,https://www.abgeordnetenwatch.de/profile/hubertus-zdebel
+2015-05-12 11:00,dr-ute-finckh-kramer,4dbb0721-8786-4bc8-9fd6-8c36b9e059a3,female,Ute,Finckh-Krämer,SPD,Bundestag,Diplom-Mathematikerin,0,0,https://www.abgeordnetenwatch.de/profile/dr-ute-finckh-kramer
+2015-05-31 01:08,klaus-peter-schulze,4e2346ae-08b4-4eea-9b9b-b32d8ebaca8f,male,Klaus-Peter,Schulze,CDU,Bundestag,Dipl.-Lehrer Biologie/Chemie,0,0,https://www.abgeordnetenwatch.de/profile/klaus-peter-schulze
+2015-05-28 12:10,thomas-silberhorn,4e807fc3-c1ae-4a64-810d-af01f36950c0,male,Thomas,Silberhorn,CSU,Bundestag,"Jurist,",0,0,https://www.abgeordnetenwatch.de/profile/thomas-silberhorn
+2015-05-12 00:00,andrea-wicklein,4eef761b-82bb-4435-b058-03e78d74368e,female,Andrea,Wicklein,SPD,Bundestag,"Diplomökonomin, Angestellte",0,0,https://www.abgeordnetenwatch.de/profile/andrea-wicklein
+2015-05-23 01:08,alexandra-dinges-dierig,4f6b71b3-f19a-4f93-831e-e588a33f6a78,female,Alexandra,Dinges-Dierig,CDU,Bundestag,Dipl. Volkswirtin,0,0,https://www.abgeordnetenwatch.de/profile/alexandra-dinges-dierig
+2015-05-18 01:08,alois-gerig,5009a97b-c126-4902-8612-2b038d494665,male,Alois,Gerig,CDU,Bundestag,Landwirtschaftlicher Meister,0,0,https://www.abgeordnetenwatch.de/profile/alois-gerig
+2015-05-12 00:00,heike-hansel,507d89d3-8efc-4821-a229-e7212e6065be,female,Heike,Hänsel,DIE LINKE,Bundestag,Diplom-Oecotrophologin,0,0,https://www.abgeordnetenwatch.de/profile/heike-hansel
+2015-05-11 23:01,dr-rolf-mutzenich,50e2c8a8-3bb5-4d98-8d50-b2498da0a926,male,Rolf,Mützenich,SPD,Bundestag,Politikwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/dr-rolf-mutzenich
+2015-05-12 02:00,joachim-pos,50f83431-1620-450c-b39e-49b583454ec9,male,Joachim,Poß,SPD,Bundestag,Verwaltungsleiter,0,0,https://www.abgeordnetenwatch.de/profile/joachim-pos
+2015-05-31 01:08,sven-christian-kindler,51930075-e52a-47fe-9287-c5fbc3781b71,male,Sven-Christian,Kindler,DIE GRÜNEN,Bundestag,"Betriebswirt, Controller",0,0,https://www.abgeordnetenwatch.de/profile/sven-christian-kindler
+2015-05-27 01:08,karl-georg-wellmann,521a76df-8f4a-4f72-b3c1-041175425203,male,Karl-Georg,Wellmann,CDU,Bundestag,Rechtsanwalt und Notar,0,0,https://www.abgeordnetenwatch.de/profile/karl-georg-wellmann
+2015-05-12 09:48,norbert-mueller,524376ad-cac5-4b44-b2bf-4f1b0012536d,male,Norbert,Müller,DIE LINKE,Bundestag,Student / Mitarbeiter einer Europaabgeordneten,0,0,https://www.abgeordnetenwatch.de/profile/norbert-mueller
+2015-05-12 02:00,petra-pau,539d762c-7f50-41be-b8d3-ffa2aa79d52a,female,Petra,Pau,DIE LINKE,Bundestag,Lehrerin,0,0,https://www.abgeordnetenwatch.de/profile/petra-pau
+2015-05-23 01:08,marcus-held,53e7ea93-2354-4927-9f57-677fc9e7eefb,male,Marcus,Held,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/marcus-held
+2015-05-29 01:08,katja-kipping,540cf02f-ec6c-4ba7-adb6-fa594db8a836,female,Katja,Kipping,DIE LINKE,Bundestag,"Slawistin, Literaturwissenschaftlerin",0,0,https://www.abgeordnetenwatch.de/profile/katja-kipping
+2015-05-23 01:08,andreas-mattfeldt,5466e5b9-c284-434b-8683-d540c69db826,male,Andreas,Mattfeldt,CDU,Bundestag,Industriekaufmann,0,0,https://www.abgeordnetenwatch.de/profile/andreas-mattfeldt
+2015-05-12 00:00,valerie-wilms,558f5f6a-0344-4785-b55e-9a57d2cd198b,female,Valerie,Wilms,DIE GRÜNEN,Bundestag,Diplom-Ingenieurin,0,0,https://www.abgeordnetenwatch.de/profile/valerie-wilms
+2015-05-28 12:10,angela-merkel,5683618f-48d0-4c2b-8f99-58d6e4002123,female,Angela,Merkel,CDU,Bundestag,Diplom-Physikerin,0,0,https://www.abgeordnetenwatch.de/profile/angela-merkel
+2015-05-19 01:08,dietrich-monstadt,57b58cfb-559a-43f2-8d8d-e9387c548482,male,Dietrich,Monstadt,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/dietrich-monstadt
+2015-05-21 01:09,dr-claudia-lucking-michel,584e69e9-c0cd-45e6-9e6f-b73514287675,female,Claudia,Lücking-Michel,CDU,Bundestag,Generalsekretärin des Cusanuswerks,0,0,https://www.abgeordnetenwatch.de/profile/dr-claudia-lucking-michel
+2015-05-31 01:08,wolfgang-schauble,58df3a0e-7fef-42df-b1d0-0d67bb090955,male,Wolfgang,Schäuble,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/wolfgang-schauble
+2015-05-29 01:08,thomas-jarzombek,597a0668-0559-4543-9ca1-98eafc69b8d3,male,Thomas,Jarzombek,CDU,Bundestag,Unternehmer,0,0,https://www.abgeordnetenwatch.de/profile/thomas-jarzombek
+2015-05-15 01:08,mechthild-rawert,59b1a04e-542c-4e3d-ba06-5e3ee80d0066,female,Mechthild,Rawert,SPD,Bundestag,"Diplom-Pädagogin, Diplom-Sozialpädagogin",0,0,https://www.abgeordnetenwatch.de/profile/mechthild-rawert
+2015-05-18 01:08,petra-crone,59efc879-17a5-4efd-802d-1fae5a17b6c9,female,Petra,Crone,SPD,Bundestag,Sozialwissenschaftlerin,0,0,https://www.abgeordnetenwatch.de/profile/petra-crone
+2015-05-27 01:08,omid-nouripour,59f870da-73a7-4b8e-bb2f-5ff4160bf5f4,male,Omid,Nouripour,DIE GRÜNEN,Bundestag,Selbständiger Berater,0,0,https://www.abgeordnetenwatch.de/profile/omid-nouripour
+2015-05-24 01:08,bettina-hagedorn,5a80e7ad-ced5-44d4-8d00-328ad8ddc18f,female,Bettina,Hagedorn,SPD,Bundestag,Goldschmiedin,0,0,https://www.abgeordnetenwatch.de/profile/bettina-hagedorn
+2015-05-28 12:10,katja-keul,5ab6d48b-cc7f-4f25-8a04-9ff6ca2d7960,female,Katja,Keul,DIE GRÜNEN,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/katja-keul
+2015-05-12 09:00,dr-karl-a-lamers,5b4c7fcf-7a1c-4353-8ca5-7e33d9059f61,male,Karl A.,Lamers,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/dr-karl-a-lamers
+2015-05-30 01:08,dr-matthias-bartke,5bab32cb-d4a7-448c-9de4-3d7536f22d5c,male,Matthias,Bartke,SPD,Bundestag,Jurist (Dr. jur.),0,0,https://www.abgeordnetenwatch.de/profile/dr-matthias-bartke
+2015-05-12 09:00,bettina-kudla,5c97736e-819a-4bfe-85d4-f55b80c9937b,female,Bettina,Kudla,CDU,Bundestag,Wirtschaftsprüferin,0,0,https://www.abgeordnetenwatch.de/profile/bettina-kudla
+2015-05-12 02:00,thomas-rachel,5cd40036-b161-4cf3-89db-c266892e247d,male,Thomas,Rachel,CDU,Bundestag,Politikwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/thomas-rachel
+2015-05-12 02:00,dr-alexander-s-neu,5cf2157b-3990-4c41-a679-a84d5754bed8,male,Alexander S.,Neu,DIE LINKE,Bundestag,Politikwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/dr-alexander-s-neu
+2015-05-20 01:08,siegmund-ehrmann,5d139bc1-5645-43b2-aa7f-de8d28d62942,male,Siegmund,Ehrmann,SPD,Bundestag,Städtischer Leitender Verwaltungsdirektor a. D.,0,0,https://www.abgeordnetenwatch.de/profile/siegmund-ehrmann
+2015-05-28 12:11,detlef-muller,5d68b910-3969-460a-b496-1d3592b12c77,male,Detlef,Müller,SPD,Bundestag,Lokomotivführer,0,0,https://www.abgeordnetenwatch.de/profile/detlef-muller
+2015-05-18 01:08,friedrich-ostendorff,5ddbb5f7-d038-4f18-87d3-45025282d241,male,Friedrich,Ostendorff,DIE GRÜNEN,Bundestag,Bauer,0,0,https://www.abgeordnetenwatch.de/profile/friedrich-ostendorff
+2015-05-28 12:11,dirk-becker,5e0bcbb8-ab00-4dec-9e83-3527b6b4d31b,male,Dirk,Becker,SPD,Bundestag,Diplom-Verwaltungswirt,0,0,https://www.abgeordnetenwatch.de/profile/dirk-becker
+2015-05-23 01:08,norbert-lammert,5e2de781-ddbc-4e9c-87b1-e1c5e62c63b1,male,Norbert,Lammert,CDU,Bundestag,Diplomsozialwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/norbert-lammert
+2015-05-22 01:08,birgit-menz,5e46a990-0f29-473c-b979-eeafb5900198,female,Birgit,Menz,DIE LINKE,Bundestag,Buchhändlerin,0,0,https://www.abgeordnetenwatch.de/profile/birgit-menz
+2015-05-12 02:00,thomas-nord,5ecbc283-6b37-4fbb-bd4d-0f347f811667,male,Thomas,Nord,DIE LINKE,Bundestag,"Maschinen- und Anlagenmonteur, Kulturwissenschaftler",0,0,https://www.abgeordnetenwatch.de/profile/thomas-nord
+2015-05-14 01:08,matthias-heider,5f965ccb-6132-4645-8604-c4bb654e1c25,male,Matthias,Heider,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/matthias-heider
+2015-05-12 11:00,heinz-joachim-barchmann,6077b888-4ebb-46e6-9661-7f3106272118,male,Heinz-Joachim,Barchmann,SPD,Bundestag,Gewerkschaftssekretär,0,0,https://www.abgeordnetenwatch.de/profile/heinz-joachim-barchmann
+2015-05-21 01:09,franz-josef-holzenkamp,60802937-9c3f-4a3b-8a26-1a6ce1e5bffe,male,Franz-Josef,Holzenkamp,CDU,Bundestag,"Industriekaufmann, Landwirtschaftsmeister",0,0,https://www.abgeordnetenwatch.de/profile/franz-josef-holzenkamp
+2015-05-12 02:00,josef-rief,60cd921a-c498-4cc8-908d-a846755b7ab6,male,Josef,Rief,CDU,Bundestag,Selbstständiger Landwirt,0,0,https://www.abgeordnetenwatch.de/profile/josef-rief
+2015-05-11 23:01,julia-obermeier,61ce3643-058e-4387-a5d6-e34ea83146c1,female,Julia,Obermeier,CSU,Bundestag,Angestellte,0,0,https://www.abgeordnetenwatch.de/profile/julia-obermeier
+2015-05-12 10:00,michael-hennrich,61f8d7a0-a1d8-4425-b463-bccd5b9cb278,male,Michael,Hennrich,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/michael-hennrich
+2015-05-12 10:00,mechthild-heil,62df8e8d-bb02-4922-9537-1af4627b35d4,female,Mechthild,Heil,CDU,Bundestag,"Ingenieurin, selbstständige Architektin",0,0,https://www.abgeordnetenwatch.de/profile/mechthild-heil
+2015-05-12 01:00,dr-hans-joachim-schabedoth,63c2619d-ce39-4de7-81d8-5f5036183201,male,Hans-Joachim,Schabedoth,SPD,Bundestag,gewerkschaftlicher Politikberater,0,0,https://www.abgeordnetenwatch.de/profile/dr-hans-joachim-schabedoth
+2015-05-12 02:00,katherina-reiche,63dd9b6b-35dd-4202-981c-354983b178a9,female,Katherina,Reiche,CDU,Bundestag,Diplomchemikerin,0,0,https://www.abgeordnetenwatch.de/profile/katherina-reiche
+2015-05-12 11:00,thomas-bareis,6410a2f4-7c92-4505-a5e6-0d28e4b614bd,male,Thomas,Bareiß,CDU,Bundestag,Diplom-Betriebswirt (BA),0,0,https://www.abgeordnetenwatch.de/profile/thomas-bareis
+2015-05-23 01:08,irene-mihalic,6484c77c-8098-4000-9f2a-8e33f655e951,female,Irene,Mihalic,DIE GRÜNEN,Bundestag,Polizeibeamtin,0,0,https://www.abgeordnetenwatch.de/profile/irene-mihalic
+2015-05-12 02:00,michaela-noll,64a0635b-aac8-4e9b-93aa-effe35661079,female,Michaela,Noll,CDU,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/michaela-noll
+2015-05-21 01:09,dr-fritz-felgentreu,651c7c57-5a8a-4c09-9dbd-625694d4a102,male,Fritz,Felgentreu,SPD,Bundestag,Klassischer Philologe,0,0,https://www.abgeordnetenwatch.de/profile/dr-fritz-felgentreu
+2015-05-12 09:00,bernhard-kaster,659a220d-5cfa-4873-821f-88ff12db416b,male,Bernhard,Kaster,CDU,Bundestag,Dipl.-Verwaltungswirt (FH),0,0,https://www.abgeordnetenwatch.de/profile/bernhard-kaster
+2015-05-20 01:08,dr-franziska-brantner,65ad7e05-ee78-4af6-b1e3-ed50226dbe03,female,Franziska,Brantner,DIE GRÜNEN,Bundestag,Sozialwissenschaftlerin,0,0,https://www.abgeordnetenwatch.de/profile/dr-franziska-brantner
+2015-05-29 01:08,martin-burkert,65ad9ce4-854e-46dc-a588-3f7cc69d6f5a,male,Martin,Burkert,SPD,Bundestag,Gewerkschaftssekretär,0,0,https://www.abgeordnetenwatch.de/profile/martin-burkert
+2015-05-14 01:08,georg-nuslein,65f73aaa-6c8a-4cf1-8617-e8472ad35bef,male,Georg,Nüßlein,CSU,Bundestag,Diplomkaufmann,0,0,https://www.abgeordnetenwatch.de/profile/georg-nuslein
+2015-05-12 09:00,christine-lambrecht,6676cda4-2f4c-4b60-93f4-6a8d5b8ea416,female,Christine,Lambrecht,SPD,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/christine-lambrecht
+2015-05-30 01:08,thomas-strobl,66908a5c-087c-47dd-b95b-b782a967e8ba,male,Thomas,Strobl,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/thomas-strobl
+2015-05-12 11:00,katharina-droge,67478631-1f09-4762-8de8-b2c2ad41e6f2,female,Katharina,Dröge,DIE GRÜNEN,Bundestag,Volkswirtin,0,0,https://www.abgeordnetenwatch.de/profile/katharina-droge
+2015-05-28 12:10,kersten-steinke,67a020e4-cc3b-499c-b77b-efd000fa8f84,female,Kersten,Steinke,DIE LINKE,Bundestag,Agraringenieurin,0,0,https://www.abgeordnetenwatch.de/profile/kersten-steinke
+2015-05-22 01:08,christian-hirte,67bdbb26-d96d-4002-8abc-5d00bfd2786d,male,Christian,Hirte,CDU,Bundestag,Rechtsanwalt und Fachanwalt für Steuerrecht,0,0,https://www.abgeordnetenwatch.de/profile/christian-hirte
+2015-05-26 01:08,claudia-tausend,684dd5bb-423a-452c-9bec-969c84f97c45,female,Claudia,Tausend,SPD,Bundestag,Diplom-Geographin,0,0,https://www.abgeordnetenwatch.de/profile/claudia-tausend
+2015-05-23 01:08,burkhard-lischka,68599218-b85c-40ef-ae3a-f636285f8bf2,male,Burkhard,Lischka,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/burkhard-lischka
+2015-05-12 10:00,mark-helfrich,69581446-6e4b-4746-8fcd-562f75847dd5,male,Mark,Helfrich,CDU,Bundestag,Betriebswirt,0,0,https://www.abgeordnetenwatch.de/profile/mark-helfrich
+2015-05-28 12:11,dr-johannes-fechner,6b414aa1-52a8-44f5-9e80-ac5554321d99,male,Johannes,Fechner,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/dr-johannes-fechner
+2015-05-21 01:08,dr-carola-reimann,6c1cc7dc-2bd0-4472-aea6-4db680934b76,female,Carola,Reimann,SPD,Bundestag,Biotechnologin,0,0,https://www.abgeordnetenwatch.de/profile/dr-carola-reimann
+2015-05-12 09:00,hans-werner-kammer,6c274ab7-34d8-4312-87c4-a0eea76abcb0,male,Hans-Werner,Kammer,CDU,Bundestag,Baukaufmann,0,0,https://www.abgeordnetenwatch.de/profile/hans-werner-kammer
+2015-05-12 11:00,ingrid-arndt-brauer,6c2c5a39-7686-4f78-a8b1-ebdaf8d2e881,female,Ingrid,Arndt-Brauer,SPD,Bundestag,"Diplom-Kauffrau, Diplom-Soziologin",0,0,https://www.abgeordnetenwatch.de/profile/ingrid-arndt-brauer
+2015-05-12 10:00,markus-grubel,6ce476d1-72cb-4e35-a3e0-685b197cbf20,male,Markus,Grübel,CDU,Bundestag,Notar,0,0,https://www.abgeordnetenwatch.de/profile/markus-grubel
+2015-05-31 01:08,alexander-radwan,6cf58583-20c7-4580-be6f-ca4d12fef062,male,Alexander,Radwan,CSU,Bundestag,"Dipl.-Ing. (FH), Rechtsanwalt",0,0,https://www.abgeordnetenwatch.de/profile/alexander-radwan
+2015-05-20 01:08,arnold-vaatz,6d021708-da72-4607-a21f-edbbb9fdfbcb,male,Arnold,Vaatz,CDU,Bundestag,Mathematiker,0,0,https://www.abgeordnetenwatch.de/profile/arnold-vaatz
+2015-05-14 01:08,axel-knoerig,6d7812e6-421f-4b19-aba2-44b52781ec16,male,Axel,Knoerig,CDU,Bundestag,Marketingfachmann,0,0,https://www.abgeordnetenwatch.de/profile/axel-knoerig
+2015-05-12 00:00,waltraud-wolff,6da3eb7a-a598-4f28-9d0f-4ff880a2781d,female,Waltraud,Wolff,SPD,Bundestag,Sonderschullehrerin,0,0,https://www.abgeordnetenwatch.de/profile/waltraud-wolff
+2015-05-22 01:08,heiko-schmelzle,6dac7fe1-7e36-4a78-bb66-571ea9210fe9,male,Heiko,Schmelzle,CDU,Bundestag,Sparkassenbetriebswirt,0,0,https://www.abgeordnetenwatch.de/profile/heiko-schmelzle
+2015-05-12 11:00,uwe-beckmeyer,6dd4c747-539b-46cc-8d16-70da6d4af076,male,Uwe,Beckmeyer,SPD,Bundestag,Studium der Erziehungswissenschaften,0,0,https://www.abgeordnetenwatch.de/profile/uwe-beckmeyer
+2015-05-27 01:08,hermann-farber,6e206eaa-f81a-42b3-836f-965c36c4af2b,male,Hermann,Färber,CDU,Bundestag,Landwirtschaftsmeister,0,0,https://www.abgeordnetenwatch.de/profile/hermann-farber
+2015-05-20 01:08,barbara-woltmann,6ec1f3ad-71d1-4420-9723-8c2028540e51,female,Barbara,Woltmann,CDU,Bundestag,Verwaltungsjuristin,0,0,https://www.abgeordnetenwatch.de/profile/barbara-woltmann
+2015-05-12 00:00,agnieszka-brugger,6fc905ac-9ebf-49b5-bf92-3b0c2f2bc683,female,Agnieszka,Brugger,DIE GRÜNEN,Bundestag,"Studium der Politikwissenschaft, des Öffentlichen Rechts und der Philosophie (M.A.)",0,0,https://www.abgeordnetenwatch.de/profile/agnieszka-brugger
+2015-05-28 12:10,manuel-sarrazin,6fd78bb9-6391-4396-810f-26de520f4399,male,Manuel,Sarrazin,DIE GRÜNEN,Bundestag,Historiker,0,0,https://www.abgeordnetenwatch.de/profile/manuel-sarrazin
+2015-05-12 10:00,dr-rosemarie-hein,6fe5d2a3-4088-47b9-a840-4c3df0a05039,female,Rosemarie,Hein,DIE LINKE,Bundestag,"Lehrerin, Kunstwissenschaftlerin",0,0,https://www.abgeordnetenwatch.de/profile/dr-rosemarie-hein
+2015-05-12 00:00,marian-wendt,70166544-e106-4cdc-aa25-a117639dc3cc,male,Marian,Wendt,CDU,Bundestag,Wissenschaftlicher Mitarbeiter,0,0,https://www.abgeordnetenwatch.de/profile/marian-wendt
+2015-05-20 01:08,bernd-westphal,70823ad0-2ebe-4d54-8d5d-41249d10e8d7,male,Bernd,Westphal,SPD,Bundestag,"Gewerkschaftssekretär, Chemielaborant",0,0,https://www.abgeordnetenwatch.de/profile/bernd-westphal
+2015-05-12 10:00,michael-gerdes,7088bb7f-e2cc-4c1e-804b-2c8bf1e2f11e,male,Michael,Gerdes,SPD,Bundestag,"Bergmann, Elektrohauer",0,0,https://www.abgeordnetenwatch.de/profile/michael-gerdes
+2015-05-12 09:00,xaver-jung,708d8c36-fdfb-4808-baac-e4867ba3065e,male,Xaver,Jung,CDU,Bundestag,Oberstudienrat,0,0,https://www.abgeordnetenwatch.de/profile/xaver-jung
+2015-05-18 01:08,elvira-drobinski-weis,70c061a7-38e2-4e18-b656-90a23874c77b,female,Elvira,Drobinski-Weiß,SPD,Bundestag,Diplom-Pädagogin,0,0,https://www.abgeordnetenwatch.de/profile/elvira-drobinski-weis
+2015-05-20 01:08,detlev-pilger,70dac432-b8c4-463d-abc7-fd03f1f81a0d,male,Detlev,Pilger,SPD,Bundestag,Berufsschullehrer,0,0,https://www.abgeordnetenwatch.de/profile/detlev-pilger
+2015-05-12 02:00,ozcan-mutlu,721cf3c5-f70c-406b-ba1c-97fa9b7c6f48,male,Özcan,Mutlu,DIE GRÜNEN,Bundestag,Diplom-Ingenieur,0,0,https://www.abgeordnetenwatch.de/profile/ozcan-mutlu
+2015-05-23 01:08,manfred-zollmer,73016427-36a0-4dff-9cf4-e782684687a0,male,Manfred,Zöllmer,SPD,Bundestag,"Stellvertretender Schulleiter, MdB",0,0,https://www.abgeordnetenwatch.de/profile/manfred-zollmer
+2015-05-29 01:08,andreas-jung,738028f4-1c3a-4039-962b-6d6eeb48a7c2,male,Andreas,Jung,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/andreas-jung
+2015-05-12 02:00,ulrich-petzold,73cbc851-59c5-4288-805b-1e4a1c4ea35d,male,Ulrich,Petzold,CDU,Bundestag,Diplomingenieur,0,0,https://www.abgeordnetenwatch.de/profile/ulrich-petzold
+2015-05-14 01:08,herlind-gundelach,749f02de-c94c-4474-b61a-3ddef6715a21,female,Herlind,Gundelach,CDU,Bundestag,"Studium der Politikwissenschaft, Geschichte, Philosophie und Staatsrecht",0,0,https://www.abgeordnetenwatch.de/profile/herlind-gundelach
+2015-05-29 01:08,gudrun-anna-therese-zollner,74fe87e2-b79c-44a3-8547-3eb2e6e2aa9e,female,Gudrun Anna Therese,Zollner,CSU,Bundestag,"Industriekauffrau, Speditionskauffrau - derzeit kfm. Koordinatorin",0,0,https://www.abgeordnetenwatch.de/profile/gudrun-anna-therese-zollner
+2015-05-29 01:08,sylvia-pantel,7517a485-7752-431e-8cb0-6de2896aa1a8,female,Sylvia,Pantel,CDU,Bundestag,Hausfrau,0,0,https://www.abgeordnetenwatch.de/profile/sylvia-pantel
+2015-05-12 11:00,prof-dr-maria-bohmer,7567efb8-61a3-43ea-a3da-5a3c77c572fa,female,Maria,Böhmer,CDU,Bundestag,"Studium der  Mathematik, Physik, Politikwissenschaft und Pädagogik auf Lehramt",0,0,https://www.abgeordnetenwatch.de/profile/prof-dr-maria-bohmer
+2015-05-22 01:09,hubert-huppe,7578f79e-316b-4ada-bcbd-c4d72a2fb52b,male,Hubert,Hüppe,CDU,Bundestag,Diplomverwaltungswirt,0,0,https://www.abgeordnetenwatch.de/profile/hubert-huppe
+2015-05-15 01:08,peter-stein,75ee6c5b-422b-4e7f-975f-bf9775aec46c,male,Peter,Stein,CDU,Bundestag,Architekt,0,0,https://www.abgeordnetenwatch.de/profile/peter-stein
+2015-05-12 09:00,uwe-lagosky,7613ec5f-d524-4f0d-a3d1-ad55508b70b2,male,Uwe,Lagosky,CDU,Bundestag,Techniker,0,0,https://www.abgeordnetenwatch.de/profile/uwe-lagosky
+2015-05-11 23:01,dr-petra-sitte,7723ee65-422a-46ae-9859-87442d29d9d3,female,Petra,Sitte,DIE LINKE,Bundestag,Diplom-Ökonom,0,0,https://www.abgeordnetenwatch.de/profile/dr-petra-sitte
+2015-05-30 01:08,johannes-kahrs,773b1f11-17fe-45ce-bd2e-d8fefb0d67cf,male,Johannes,Kahrs,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/johannes-kahrs
+2015-05-28 12:10,harald-petzold,775b7b74-15bd-4607-98b9-caf3a33d26ec,male,Harald,Petzold,DIE LINKE,Bundestag,Lehrer (Sekundarstufe II/I),0,0,https://www.abgeordnetenwatch.de/profile/harald-petzold
+2015-05-12 09:00,gabriele-katzmarek,77717808-3a48-4774-89fd-f76037f7cc9e,female,Gabriele,Katzmarek,SPD,Bundestag,Gewerkschaftssekretärin,0,0,https://www.abgeordnetenwatch.de/profile/gabriele-katzmarek
+2015-05-12 09:00,frank-junge,7799cbe7-fa2e-4940-adfb-32397c95058e,male,Frank,Junge,SPD,Bundestag,Diplomsportlehrer,0,0,https://www.abgeordnetenwatch.de/profile/frank-junge
+2015-05-12 11:00,prof-dr-lars-castellucci,77c163c6-7660-41bc-bcf5-5195375e7a15,male,Lars,Castellucci,SPD,Bundestag,"Professor für Nachhaltiges Management, Integrations- und Diversity Management",0,0,https://www.abgeordnetenwatch.de/profile/prof-dr-lars-castellucci
+2015-05-12 01:00,dr-sabine-sutterlin-waack,77d697bf-4f34-4e62-83e8-2b2fc6bb90b1,female,Sabine,Sütterlin-Waack,CDU,Bundestag,Rechtsanwältin,0,0,https://www.abgeordnetenwatch.de/profile/dr-sabine-sutterlin-waack
+2015-05-22 01:09,ronja-schmitt,77f24ef0-5cdc-4d5b-87a0-1c14860842a7,female,Ronja,Schmitt,CDU,Bundestag,Studentin der Volkswirtschaftslehre,0,0,https://www.abgeordnetenwatch.de/profile/ronja-schmitt
+2015-05-12 00:00,ulrich-hampel,7840dd7d-5adf-4469-b2cd-f7fee01ee462,male,Ulrich,Hampel,SPD,Bundestag,Bergmechaniker,0,0,https://www.abgeordnetenwatch.de/profile/ulrich-hampel
+2015-05-12 00:00,jorn-wunderlich,785e4b4c-9ba8-4850-a519-e33a22929065,male,Jörn,Wunderlich,DIE LINKE,Bundestag,"Volljurist, Richter am Amtsgericht a. D.",0,0,https://www.abgeordnetenwatch.de/profile/jorn-wunderlich
+2015-05-17 01:08,hans-christian-strobele,78624205-27af-4211-969b-d147d12cc640,male,Hans-Christian,Ströbele,DIE GRÜNEN,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/hans-christian-strobele
+2015-05-20 01:08,rainer-arnold,78c1f169-dbb2-4d15-ab89-6d1a53da743e,male,Rainer,Arnold,SPD,Bundestag,Volkshochschulangestellter,0,0,https://www.abgeordnetenwatch.de/profile/rainer-arnold
+2015-05-11 23:01,uwe-schummer,7914448c-6e36-4049-a1d2-a231c197290a,male,Uwe,Schummer,CDU,Bundestag,Groß- und Außenhandelskaufmann,0,0,https://www.abgeordnetenwatch.de/profile/uwe-schummer
+2015-05-22 01:08,wolfgang-stefinger,7918c30d-9e42-48be-befe-5c16d393f2f5,male,Wolfgang,Stefinger,CSU,Bundestag,Dipl.-Betriebswirt (FH),0,0,https://www.abgeordnetenwatch.de/profile/wolfgang-stefinger
+2015-05-12 10:00,kai-gehring,792c17a9-09d1-45b1-9fbc-827b4a905a43,male,Kai,Gehring,DIE GRÜNEN,Bundestag,Diplom-Sozialwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/kai-gehring
+2015-05-12 10:00,eberhard-gienger,794c2c57-e6b1-452a-9e50-a3b9e3d910a4,male,Eberhard,Gienger,CDU,Bundestag,"Kaufmann, Diplomsportlehrer",0,0,https://www.abgeordnetenwatch.de/profile/eberhard-gienger
+2015-05-15 01:08,johann-saathoff,79d33013-6183-4c26-9ac2-b702cca53a16,male,Johann,Saathoff,SPD,Bundestag,Diplom-Verwaltungswirt (FH),0,0,https://www.abgeordnetenwatch.de/profile/johann-saathoff
+2015-05-12 00:00,emmi-zeulner,79e4005e-d2af-4342-a552-f1230fda81ef,female,Emmi,Zeulner,CSU,Bundestag,Examinierte Gesundheits- und Krankenpflegerin,0,0,https://www.abgeordnetenwatch.de/profile/emmi-zeulner
+2015-05-12 09:00,katharina-landgraf,7a3d29fd-c1cd-433f-a9f5-c9302ee25265,female,Katharina,Landgraf,CDU,Bundestag,Diplom-Meliorationsingenieurin,0,0,https://www.abgeordnetenwatch.de/profile/katharina-landgraf
+2015-05-12 10:00,gustav-herzog,7a666065-4350-432c-9f40-21097321dae3,male,Gustav,Herzog,SPD,Bundestag,Chemielaborant,0,0,https://www.abgeordnetenwatch.de/profile/gustav-herzog
+2015-05-18 01:08,artur-auernhammer,7b0d69ad-29a3-4dd2-97c5-b35b0432c92a,male,Artur,Auernhammer,CSU,Bundestag,Landwirt,0,0,https://www.abgeordnetenwatch.de/profile/artur-auernhammer
+2015-05-31 01:08,martin-rabanus,7b263a3d-207d-4e4b-b863-f0edcca28865,male,Martin,Rabanus,SPD,Bundestag,"Hochschulstudium Politikwissenschaften, Jura, Soziolgie, Geschichte",0,0,https://www.abgeordnetenwatch.de/profile/martin-rabanus
+2015-05-15 01:08,heinz-wiese,7b83af56-2439-49fb-8714-b7e36f238d87,male,Heinz,Wiese,CDU,Bundestag,Lehrer (in Pension),0,0,https://www.abgeordnetenwatch.de/profile/heinz-wiese
+2015-05-12 09:00,antje-lezius,7beb649e-5931-4038-a754-bdf1608bb407,female,Antje,Lezius,CDU,Bundestag,Unternehmensberaterin,0,0,https://www.abgeordnetenwatch.de/profile/antje-lezius
+2015-05-12 10:00,martin-gerster,7c80441e-0c84-4690-ae77-97ba9c3aea06,male,Martin,Gerster,SPD,Bundestag,Politikwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/martin-gerster
+2015-05-12 11:00,sybille-benning,7e215970-dc2c-4ce1-8686-3113136bb730,female,Sybille,Benning,CDU,Bundestag,Dipl.Ing. Landschaftsplanung,0,0,https://www.abgeordnetenwatch.de/profile/sybille-benning
+2015-05-31 01:08,gabriela-heinrich,7fb7aa67-aa41-44e9-bd7f-4be05b34554a,female,Gabriela,Heinrich,SPD,Bundestag,Redakteurin,0,0,https://www.abgeordnetenwatch.de/profile/gabriela-heinrich
+2015-05-29 01:08,michael-frieser,8037ebea-ef64-45dc-a610-92c2ff4a598a,male,Michael,Frieser,CSU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/michael-frieser
+2015-05-31 01:08,andrea-nahles,80b6034a-6537-47cc-a4c5-32a04f70fc36,female,Andrea,Nahles,SPD,Bundestag,Literaturwissenschaftlerin M. A.,0,0,https://www.abgeordnetenwatch.de/profile/andrea-nahles
+2015-05-12 10:00,britta-haselmann,816e25e0-0385-4807-aadb-28de81113333,female,Britta,Haßelmann,DIE GRÜNEN,Bundestag,Diplom-Sozialarbeiterin,0,0,https://www.abgeordnetenwatch.de/profile/britta-haselmann
+2015-05-30 01:08,klaus-mindrup,818ac3b0-6a92-41c3-895a-216c5307663a,male,Klaus,Mindrup,SPD,Bundestag,Freiberuflicher Gutachter und Entwickler (Dipl.-Biologe),0,0,https://www.abgeordnetenwatch.de/profile/klaus-mindrup
+2015-05-12 09:00,barbel-hohn,81d79c87-558e-41b3-9140-77839bc239f1,female,Bärbel,Höhn,DIE GRÜNEN,Bundestag,Diplom-Mathematikerin,0,0,https://www.abgeordnetenwatch.de/profile/barbel-hohn
+2015-05-30 01:08,metin-hakverdi,828a61bd-ffae-4c68-8eec-80579e31c954,male,Metin,Hakverdi,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/metin-hakverdi
+2015-05-12 09:00,erich-irlstorfer,82d80c32-f822-46a9-a2c6-d753c7ba6f1a,male,Erich,Irlstorfer,CSU,Bundestag,Aussendienstmitarbeiter,0,0,https://www.abgeordnetenwatch.de/profile/erich-irlstorfer
+2015-05-31 01:08,wilhelm-priesmeier,82e5daf8-49f5-48ee-a9bc-362b819ac70a,male,Wilhelm,Priesmeier,SPD,Bundestag,Tierarzt,0,0,https://www.abgeordnetenwatch.de/profile/wilhelm-priesmeier
+2015-05-30 01:08,prof-dr-iur-heribert-hirte,8337b9f2-06b6-45d6-8965-33a76deac558,male,Heribert,Hirte,CDU,Bundestag,Universitätsprofessor,0,0,https://www.abgeordnetenwatch.de/profile/prof-dr-iur-heribert-hirte
+2015-05-12 11:00,christoph-bergner,83b814d1-7ee8-4be2-9ad8-b7d4fcb1c057,male,Christoph,Bergner,CDU,Bundestag,Hochschulagraringenieur,0,0,https://www.abgeordnetenwatch.de/profile/christoph-bergner
+2015-05-12 02:00,carsten-linnemann,8432c8c5-c9ba-4eaf-bdb7-db0f040720fb,male,Carsten,Linnemann,CDU,Bundestag,Diplom-Volkswirt,0,0,https://www.abgeordnetenwatch.de/profile/carsten-linnemann
+2015-05-12 00:00,sylvia-kotting-uhl,84522938-105c-4fb3-9408-2b727b47fc31,female,Sylvia,Kotting-Uhl,DIE GRÜNEN,Bundestag,Dozentin,0,0,https://www.abgeordnetenwatch.de/profile/sylvia-kotting-uhl
+2015-05-14 01:08,karsten-moring,84aa9ed1-76fd-4751-bdfc-95d593887295,male,Karsten,Möring,CDU,Bundestag,Schulleiter,0,0,https://www.abgeordnetenwatch.de/profile/karsten-moring
+2015-05-31 01:08,ute-bertram,84bebad1-935e-4b04-8418-e46a4c1c6e96,female,Ute,Bertram,CDU,Bundestag,Bankfachwirtin,0,0,https://www.abgeordnetenwatch.de/profile/ute-bertram
+2015-05-15 01:08,gunter-lach,850a21d4-03e9-4ea3-816a-5becff15ecf5,male,Günter,Lach,CDU,Bundestag,Technischer Angestellter,0,0,https://www.abgeordnetenwatch.de/profile/gunter-lach
+2015-05-12 01:00,anita-schafer,851da7a3-5106-41d9-a0ad-93372b78c270,female,Anita,Schäfer,CDU,Bundestag,Angestellte,0,0,https://www.abgeordnetenwatch.de/profile/anita-schafer
+2015-05-23 01:08,carsten-trager,852817ee-a23d-4101-8321-7f62ac849e83,male,Carsten,Träger,SPD,Bundestag,"Abschluss in Politikwissenschaft, Medienwissenschaft und Geschichte",0,0,https://www.abgeordnetenwatch.de/profile/carsten-trager
+2015-05-30 01:08,eckhardt-rehberg,8647e9c3-0955-4575-8ab5-33937b3ea43d,male,Eckhardt,Rehberg,CDU,Bundestag,Diplom-Ingenieur für Informationsverarbeitung,0,0,https://www.abgeordnetenwatch.de/profile/eckhardt-rehberg
+2015-05-12 09:00,sabine-leidig,867c570d-3180-493e-b24a-88bf9fd6dbab,female,Sabine,Leidig,DIE LINKE,Bundestag,Geschäftsführerin,0,0,https://www.abgeordnetenwatch.de/profile/sabine-leidig
+2015-05-12 02:00,brigitte-pothmer,868f9528-0dfc-4020-84ae-36f058aebb68,female,Brigitte,Pothmer,DIE GRÜNEN,Bundestag,Diplom-Sozialpädagogin,0,0,https://www.abgeordnetenwatch.de/profile/brigitte-pothmer
+2015-05-12 10:00,dr-thomas-gambke,876acb80-4a8f-4b7a-b9f0-057fe2f6c431,male,Thomas,Gambke,DIE GRÜNEN,Bundestag,Physiker,0,0,https://www.abgeordnetenwatch.de/profile/dr-thomas-gambke
+2015-05-28 12:10,swen-schulz,87c7d085-83a1-469f-8fc7-0b4287a81d39,male,Swen,Schulz,SPD,Bundestag,"Redaktionsdirektor, Diplompolitologe",0,0,https://www.abgeordnetenwatch.de/profile/swen-schulz
+2015-05-23 01:08,cajus-caesar,87e9c70e-aaae-42df-9d20-3ad57927ed89,male,Cajus,Caesar,CDU,Bundestag,Diplom-Forstingenieur,0,0,https://www.abgeordnetenwatch.de/profile/cajus-caesar
+2015-05-12 00:00,peter-weis,88433c43-f7c4-44ed-8bd0-8b94492acc95,male,Peter,Weiß,CDU,Bundestag,"Referatsleiter, Geschäftsführer",0,0,https://www.abgeordnetenwatch.de/profile/peter-weis
+2015-05-31 01:08,ingo-gadechens,88c18eff-969e-4a6e-a226-e1f5c13378ab,male,Ingo,Gädechens,CDU,Bundestag,"Berufssoldat, Bundestagsabgeordneter",0,0,https://www.abgeordnetenwatch.de/profile/ingo-gadechens
+2015-05-21 01:08,dr-carsten-sieling,88dd0626-a89e-44ac-906d-1f9fc2b58981,male,Carsten,Sieling,SPD,Bundestag,Diplom-Ökonom,0,0,https://www.abgeordnetenwatch.de/profile/dr-carsten-sieling
+2015-05-15 01:08,michelle-muntefering,88e301d8-ac26-42ad-9b8e-a153793fce47,female,Michelle,Müntefering,SPD,Bundestag,Journalistin,0,0,https://www.abgeordnetenwatch.de/profile/michelle-muntefering
+2015-05-12 01:00,harald-terpe,890415cd-eb5c-4c38-970f-a870e09052df,male,Harald,Terpe,DIE GRÜNEN,Bundestag,Arzt,0,0,https://www.abgeordnetenwatch.de/profile/harald-terpe
+2015-05-12 00:00,elisabeth-winkelmeier-becker,8a908c80-13f7-4d1e-bc22-61837ba7f8ce,female,Elisabeth,Winkelmeier-Becker,CDU,Bundestag,Richterin am Amtsgericht a. D.,0,0,https://www.abgeordnetenwatch.de/profile/elisabeth-winkelmeier-becker
+2015-05-17 01:08,gabriele-fograscher,8a981703-8558-4ff9-a6a2-b0716f4aa29f,female,Gabriele,Fograscher,SPD,Bundestag,"Erzieherin, Fachlehrerin",0,0,https://www.abgeordnetenwatch.de/profile/gabriele-fograscher
+2015-05-12 10:00,thorsten-frei,8b06e79d-94cb-41a5-87d2-986b2cff67e5,male,Thorsten,Frei,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/thorsten-frei
+2015-05-12 01:00,michael-schlecht,8c6710b0-39d1-4556-8aa1-95b0ce4d9adf,male,Michael,Schlecht,DIE LINKE,Bundestag,"Gewerkschaftssekretär, Volkswirt",0,0,https://www.abgeordnetenwatch.de/profile/michael-schlecht
+2015-05-24 01:08,dr-stephan-harbarth,8cab5ddc-1488-4cc7-9952-4fa3b4517b00,male,Stephan,Harbarth,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/dr-stephan-harbarth
+2015-05-12 11:00,dr-helge-braun,8ceb3274-5dd5-4532-b3cd-6f6acffd5b3a,male,Helge,Braun,CDU,Bundestag,Arzt,0,0,https://www.abgeordnetenwatch.de/profile/dr-helge-braun
+2015-05-30 01:09,iris-eberl,8d46eeeb-4bc4-43de-88b2-c4ef23b06197,female,Iris,Eberl,CSU,Bundestag,Studium der Mathematik und Wirtschaftswissenschaften,0,0,https://www.abgeordnetenwatch.de/profile/iris-eberl
+2015-05-22 01:08,gero-storjohann,8d74051e-89c6-4e83-ac27-0dbee77254fc,male,Gero,Storjohann,CDU,Bundestag,Diplom-Betriebswirt (FH),0,0,https://www.abgeordnetenwatch.de/profile/gero-storjohann
+2015-05-25 01:08,daniela-kolbe,8dd6f066-ec43-412b-808a-22a3c8cff715,female,Daniela,Kolbe,SPD,Bundestag,Diplom-Physikerin,0,0,https://www.abgeordnetenwatch.de/profile/daniela-kolbe
+2015-05-25 01:08,dr-dorothee-schlegel,8e11167b-f936-468a-9d0f-a959afe5a00e,female,Dorothee,Schlegel,SPD,Bundestag,Sprachwissenschaftlerin und Diakonin,0,0,https://www.abgeordnetenwatch.de/profile/dr-dorothee-schlegel
+2015-05-12 00:00,christel-vosbeck-kayser,8eb2c667-9a7d-4910-9541-3bb91c416bd9,female,Christel,Voßbeck-Kayser,CDU,Bundestag,Diplom-Sozialpädagogin,0,0,https://www.abgeordnetenwatch.de/profile/christel-vosbeck-kayser
+2015-05-24 01:08,dr-hans-peter-uhl,8f050817-3bb1-4ec2-8e38-c86596b274fa,male,Hans-Peter,Uhl,CSU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/dr-hans-peter-uhl
+2015-05-12 02:00,rene-rospel,8f3db10d-090b-44ae-a677-7f800db6f2ab,male,René,Röspel,SPD,Bundestag,Diplom-Biologe,0,0,https://www.abgeordnetenwatch.de/profile/rene-rospel
+2015-05-12 09:00,chris-kuhn,90ca8b01-5a53-4ce9-8b6f-173340b1afc8,male,Chris,Kühn,DIE GRÜNEN,Bundestag,"Politologe, Landesvorsitzender",0,0,https://www.abgeordnetenwatch.de/profile/chris-kuhn
+2015-05-25 01:08,johannes-singhammer,90cd0902-932e-4a77-890d-da95c6f1875e,male,Johannes,Singhammer,CSU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/johannes-singhammer
+2015-05-12 10:00,stefan-dr-heck,91be7e3e-8534-4faf-a743-8b8b0e8d5158,male,Stefan Dr.,Heck,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/stefan-dr-heck
+2015-05-12 00:00,katja-leikert,91f4691f-14b7-4092-a1f1-44d203641d67,female,Katja,Leikert,CDU,Bundestag,Wissenschaftliche Mitarbeiterin,0,0,https://www.abgeordnetenwatch.de/profile/katja-leikert
+2015-05-17 01:08,elke-ferner,92257c1b-f719-409f-873b-633b196a0565,female,Elke,Ferner,SPD,Bundestag,Programmiererin,0,0,https://www.abgeordnetenwatch.de/profile/elke-ferner
+2015-05-22 01:09,thomas-gebhart,92c64279-3861-446d-b2e8-0a5c6c5f1646,male,Thomas,Gebhart,CDU,Bundestag,"Politikwissenschaftler, Betriebswirt (M. A.)",0,0,https://www.abgeordnetenwatch.de/profile/thomas-gebhart
+2015-05-12 10:00,dr-andre-hahn,93162637-7194-4f73-a62b-0cdb32a03ab1,male,André,Hahn,DIE LINKE,Bundestag,Dipl.-Lehrer,0,0,https://www.abgeordnetenwatch.de/profile/dr-andre-hahn
+2015-05-22 01:09,dr-anton-hofreiter,9392858c-414a-48c5-bd56-f22d004f69c1,male,Anton,Hofreiter,DIE GRÜNEN,Bundestag,Biologe,0,0,https://www.abgeordnetenwatch.de/profile/dr-anton-hofreiter
+2015-05-12 09:00,susanna-karawanskij,93c6ef4e-21f8-4ab9-960b-ba4b18367acb,female,Susanna,Karawanskij,DIE LINKE,Bundestag,Politikwissenschaftlerin,0,0,https://www.abgeordnetenwatch.de/profile/susanna-karawanskij
+2015-05-12 09:00,ralph-lenkert,9464c1f5-3c00-444f-88a1-f042ea4c9c88,male,Ralph,Lenkert,DIE LINKE,Bundestag,"Werkzeugmacher, Staatlich geprüfter Techniker für Maschinenbau",0,0,https://www.abgeordnetenwatch.de/profile/ralph-lenkert
+2015-05-23 01:08,rudiger-veit,94fc726c-fea1-453b-a620-5cae35dd8ed1,male,Rüdiger,Veit,SPD,Bundestag,"Rechtsanwalt, MdB",0,0,https://www.abgeordnetenwatch.de/profile/rudiger-veit
+2015-05-12 02:00,kerstin-radomski,952e9d2d-f7b7-4fdc-9cfc-5d5ffa3432be,female,Kerstin,Radomski,CDU,Bundestag,Studienrätin,0,0,https://www.abgeordnetenwatch.de/profile/kerstin-radomski
+2015-05-12 02:00,helmut-nowak,95f5ab8a-561b-482c-b796-86c6b1d9f2a7,male,Helmut,Nowak,CDU,Bundestag,Kaufmann,0,0,https://www.abgeordnetenwatch.de/profile/helmut-nowak
+2015-05-12 00:00,hans-joachim-fuchtel,960f560b-1dea-4a30-b6d1-46713252c01d,male,Hans-Joachim,Fuchtel,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/hans-joachim-fuchtel
+2015-05-12 09:00,monika-lazar,962645ec-4650-467e-8fed-f231a022269b,female,Monika,Lazar,DIE GRÜNEN,Bundestag,"Bäckerin, Betriebswirtin",0,0,https://www.abgeordnetenwatch.de/profile/monika-lazar
+2015-05-26 01:08,gernot-erler,96ca1588-29fa-4216-bc40-1b191a3c9626,male,Gernot,Erler,SPD,Bundestag,Verlagsleiter,0,0,https://www.abgeordnetenwatch.de/profile/gernot-erler
+2015-05-12 01:00,andreas-scheuer,9720055c-9b87-4e97-b901-e85a2ec92f59,male,Andreas,Scheuer,CSU,Bundestag,Politologe,0,0,https://www.abgeordnetenwatch.de/profile/andreas-scheuer
+2015-05-11 23:01,barbara-lanzinger,981c0274-f3e5-46a4-8ad9-3efd275f1f1b,female,Barbara,Lanzinger,CSU,Bundestag,Dipl. -Sozialpädagogin (FH) / Angestellte,0,0,https://www.abgeordnetenwatch.de/profile/barbara-lanzinger
+2015-05-20 01:08,dr-andreas-nick,9852438f-e488-4bcc-9311-0e5f28da9334,male,Andreas,Nick,CDU,Bundestag,"Dipl-Kfm.,  Master of International Public Policy",0,0,https://www.abgeordnetenwatch.de/profile/dr-andreas-nick
+2015-05-12 01:00,marianne-schieder,98b885fd-1d04-4239-aa48-677f85eccbd5,female,Marianne,Schieder,SPD,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/marianne-schieder
+2015-05-14 01:08,steffen-kanitz,98eaedc7-d90a-41de-8f44-c46343fecdb7,male,Steffen,Kanitz,CDU,Bundestag,Diplom-Kaufmann,0,0,https://www.abgeordnetenwatch.de/profile/steffen-kanitz
+2015-05-15 01:08,klaus-barthel,9916e0ba-649b-4894-b0e6-cce3cfe79791,male,Klaus,Barthel,SPD,Bundestag,Studium der Politischen Wissenschaft mit den Nebenfächern Soziologie und Geschichte,0,0,https://www.abgeordnetenwatch.de/profile/klaus-barthel
+2015-05-28 12:11,edelgard-bulmahn,99689982-dc22-4e1b-a432-ba76a4a669de,female,Edelgard,Bulmahn,SPD,Bundestag,Studium der Politischen Wissenschaften und Anglistik,0,0,https://www.abgeordnetenwatch.de/profile/edelgard-bulmahn
+2015-05-22 01:08,anja-weisgerber,99cc8726-d4aa-463b-887a-a0fa5c2455db,female,Anja,Weisgerber,CSU,Bundestag,Rechtsanwältin,0,0,https://www.abgeordnetenwatch.de/profile/anja-weisgerber
+2015-05-15 01:08,ulla-schmidt,9a2db73e-3b9a-4d36-9aab-02bee5c2ac24,female,Ulla,Schmidt,SPD,Bundestag,Lehrerin,0,0,https://www.abgeordnetenwatch.de/profile/ulla-schmidt
+2015-05-12 00:00,jurgen-hardt,9ab19754-2b1d-4b34-afa8-db19dcb6391d,male,Jürgen,Hardt,CDU,Bundestag,Leitender Angestellter,0,0,https://www.abgeordnetenwatch.de/profile/jurgen-hardt
+2015-05-12 01:00,bernhard-schulte-druggelte,9af9a9b7-6a37-479a-9265-23024271737b,male,Bernhard,Schulte-Drüggelte,CDU,Bundestag,"Diplomagraringenieur, Selbstständiger Land- und Forstwirt",0,0,https://www.abgeordnetenwatch.de/profile/bernhard-schulte-druggelte
+2015-05-12 01:00,susann-ruthrich,9b0c6902-36dc-4101-8000-530751966ab9,female,Susann,Rüthrich,SPD,Bundestag,Politikwissenschaftlerin,0,0,https://www.abgeordnetenwatch.de/profile/susann-ruthrich
+2015-05-12 00:00,volkmar-vogel,9b9dcd0a-7d51-4ccc-bb72-2a3cf6b7158e,male,Volkmar,Vogel,CDU,Bundestag,Diplom-Ingenieur (FH),0,0,https://www.abgeordnetenwatch.de/profile/volkmar-vogel
+2015-05-12 01:00,annette-sawade,9bae78d6-ecc1-43bd-80e5-50ac657336c5,female,Annette,Sawade,SPD,Bundestag,Diplom-Chemikerin,0,0,https://www.abgeordnetenwatch.de/profile/annette-sawade
+2015-05-29 01:08,carsten-schneider,9bd5fbb8-ac17-407c-a8ab-dde8347e3cef,male,Carsten,Schneider,SPD,Bundestag,Bankkaufmann,0,0,https://www.abgeordnetenwatch.de/profile/carsten-schneider
+2015-05-14 01:08,sonke-rix,9be22d86-8639-4f0c-ac7c-ab4061153181,male,Sönke,Rix,SPD,Bundestag,Erzieher,0,0,https://www.abgeordnetenwatch.de/profile/sonke-rix
+2015-05-14 01:09,gabriele-groneberg,9cd6a454-d92c-4972-a8ed-533ba9a9070f,female,Gabriele,Groneberg,SPD,Bundestag,Fremdsprachensekretärin,0,0,https://www.abgeordnetenwatch.de/profile/gabriele-groneberg
+2015-05-12 10:00,nicole-gohlke,9d46bb8e-3a66-41db-9a20-9da1bdb89e97,female,Nicole,Gohlke,DIE LINKE,Bundestag,Kommunikationswissenschaftlerin M.A.,0,0,https://www.abgeordnetenwatch.de/profile/nicole-gohlke
+2015-05-12 10:00,alexander-hoffmann,9d4c81d1-f2bb-4780-bcfe-6f58afa52d08,male,Alexander,Hoffmann,CSU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/alexander-hoffmann
+2015-05-17 01:08,cem-ozdemir,9d52bbca-c235-4896-8a52-5880917a3c47,male,Cem,Özdemir,DIE GRÜNEN,Bundestag,Diplom-Sozialpädagoge (FH),0,0,https://www.abgeordnetenwatch.de/profile/cem-ozdemir
+2015-05-12 00:00,marco-wanderwitz,9de46dac-1cdd-4062-9b99-990813a472b0,male,Marco,Wanderwitz,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/marco-wanderwitz
+2015-05-23 01:08,dr-karamba-diaby,9e96db89-2c77-4abc-b1c4-87eeb674c0a6,male,Karamba,Diaby,SPD,Bundestag,Diplom-Chemiker,0,0,https://www.abgeordnetenwatch.de/profile/dr-karamba-diaby
+2015-05-12 00:00,christine-buchholz,9ed4acaf-aa54-48b2-86c2-c7a535036333,female,Christine,Buchholz,DIE LINKE,Bundestag,"Freiberufliche Redakteurin, wissenschaftliche Mitarbeiterin",0,0,https://www.abgeordnetenwatch.de/profile/christine-buchholz
+2015-05-22 01:09,dr-georg-kippels,9f1af39a-2e20-4806-9645-cf98842c4dbf,male,Georg,Kippels,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/dr-georg-kippels
+2015-05-15 01:08,norbert-barthle,9f37ca81-9bcc-48c6-99d2-35544ef1a3ba,male,Norbert,Barthle,CDU,Bundestag,Ministerialrat a. D.,0,0,https://www.abgeordnetenwatch.de/profile/norbert-barthle
+2015-05-12 09:00,steffi-lemke,9f564848-0955-4da7-ae03-7a058c70c214,female,Steffi,Lemke,DIE GRÜNEN,Bundestag,Diplom-Agraringenieurin,0,0,https://www.abgeordnetenwatch.de/profile/steffi-lemke
+2015-05-22 01:09,steffen-kampeter,9fe9bbf3-d273-4181-91b1-1ce4f1f97616,male,Steffen,Kampeter,CDU,Bundestag,Diplomvolkswirt,0,0,https://www.abgeordnetenwatch.de/profile/steffen-kampeter
+2015-05-12 09:00,steffen-claudio-lemme,a0765bbb-c7ee-4538-aa2c-5f69e6f854ff,male,Steffen-Claudio,Lemme,SPD,Bundestag,Betriebswirt (VWA),0,0,https://www.abgeordnetenwatch.de/profile/steffen-claudio-lemme
+2015-05-22 01:09,paul-lehrieder,a0a7644f-d023-42f9-9ae3-44fa8bb88dba,male,Paul,Lehrieder,CSU,Bundestag,"Rechtsanwalt, Bürgermeister",0,0,https://www.abgeordnetenwatch.de/profile/paul-lehrieder
+2015-05-28 12:10,patrick-sensburg,a17cbdb6-dcee-4385-883c-c6c40af2e9db,male,Patrick,Sensburg,CDU,Bundestag,"Hochschulprofessor FHÖV, Münster",0,0,https://www.abgeordnetenwatch.de/profile/patrick-sensburg
+2015-05-23 01:08,gabriele-hiller-ohm,a17ea476-63b9-49e1-8333-feddae061595,female,Gabriele,Hiller-Ohm,SPD,Bundestag,Redakteurin,0,0,https://www.abgeordnetenwatch.de/profile/gabriele-hiller-ohm
+2015-05-23 01:08,niels-annen,a221d5e5-59f3-439f-a802-544f73e64f7e,male,Niels,Annen,SPD,Bundestag,"Master of International Public Policy, Bachelor of Arts (Geschichte und Spanisch)",0,0,https://www.abgeordnetenwatch.de/profile/niels-annen
+2015-05-12 02:00,katja-mast,a35f09df-8c57-4071-b88c-db518781d103,female,Katja,Mast,SPD,Bundestag,Bankkauffrau,0,0,https://www.abgeordnetenwatch.de/profile/katja-mast
+2015-05-12 00:00,oliver-wittke,a3ec2292-4b40-429a-a022-ada2d1bcbc21,male,Oliver,Wittke,CDU,Bundestag,Diplom-Geograph,0,0,https://www.abgeordnetenwatch.de/profile/oliver-wittke
+2015-05-29 01:08,dr-gesine-lotzsch,a402184d-93f3-4188-b130-13a917b44436,female,Gesine,Lötzsch,DIE LINKE,Bundestag,Philologin,0,0,https://www.abgeordnetenwatch.de/profile/dr-gesine-lotzsch
+2015-05-12 01:00,sonja-steffen,a43661d6-6a8e-45a3-88a9-309900f8b745,female,Sonja,Steffen,SPD,Bundestag,Rechtsanwältin,0,0,https://www.abgeordnetenwatch.de/profile/sonja-steffen
+2015-05-12 09:00,maria-klein-schmeink,a4fc0ea1-1f87-4773-864c-99153593a1e2,female,Maria,Klein-Schmeink,DIE GRÜNEN,Bundestag,Soziologin,0,0,https://www.abgeordnetenwatch.de/profile/maria-klein-schmeink
+2015-05-12 02:00,dr-michael-meister,a5146ea1-fa5b-448d-9f07-a73451cb843a,male,Michael,Meister,CDU,Bundestag,Diplommathematiker,0,0,https://www.abgeordnetenwatch.de/profile/dr-michael-meister
+2015-05-12 00:09,elisabeth-motschmann,a5ff4630-9155-43ea-8fc1-b6b39648bb10,female,Elisabeth,Motschmann,CDU,Bundestag,"Studium der Theologie, Romanistik und Pädagogik",0,0,https://www.abgeordnetenwatch.de/profile/elisabeth-motschmann
+2015-05-21 01:08,jan-metzler,a657b918-039f-46a2-a7da-c19ba158379f,male,Jan,Metzler,CDU,Bundestag,Winzer / Dipl.-Betriebswirt (FH),0,0,https://www.abgeordnetenwatch.de/profile/jan-metzler
+2015-05-12 00:00,michael-vietz,a694cdfe-af54-4127-9d32-c4f337d81715,male,Michael,Vietz,CDU,Bundestag,"Bankkaufmann, Diplom-Ökonom",0,0,https://www.abgeordnetenwatch.de/profile/michael-vietz
+2015-05-12 01:00,svenja-stadler,a69a05f9-019a-4f8b-8765-021992be437a,female,Svenja,Stadler,SPD,Bundestag,PR-Senior-Beraterin,0,0,https://www.abgeordnetenwatch.de/profile/svenja-stadler
+2015-05-31 01:08,soren-bartol,a8582255-68be-4331-8b05-57d3e3b42ff2,male,Sören,Bartol,SPD,Bundestag,Diplom-Politologe,0,0,https://www.abgeordnetenwatch.de/profile/soren-bartol
+2015-05-12 10:00,enak-ferlemann,a86f6a43-7fa1-45ef-abd4-82a4102d132f,male,Enak,Ferlemann,CDU,Bundestag,"Studium der Rechtswissenschaft, Politologie und Philosophie",0,0,https://www.abgeordnetenwatch.de/profile/enak-ferlemann
+2015-05-12 01:00,ulle-schauws,a9530338-b3e7-4466-a74e-a6c1c385a829,female,Ulle,Schauws,DIE GRÜNEN,Bundestag,Medienwissenschaftlerin,0,0,https://www.abgeordnetenwatch.de/profile/ulle-schauws
+2015-05-12 00:00,michael-brand,a9ed779d-fa41-43d6-a406-5f8621e20099,male,Michael,Brand,CDU,Bundestag,Angestellter,0,0,https://www.abgeordnetenwatch.de/profile/michael-brand
+2015-05-12 00:00,dirk-wiese,aa9a5c1f-ab0e-45e9-ab61-becd66f3660f,male,Dirk,Wiese,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/dirk-wiese
+2015-05-31 01:08,thomas-oppermann,aae112b1-a9e2-4ab0-8638-a7759b67dfa3,male,Thomas,Oppermann,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/thomas-oppermann
+2015-05-31 01:08,josef-goppel,ab22348c-5b60-4d1e-a0c3-b9574c020429,male,Josef,Göppel,CSU,Bundestag,Diplomforstingenieur (FH),0,0,https://www.abgeordnetenwatch.de/profile/josef-goppel
+2015-05-28 12:11,monika-grutters,aba308ed-685c-4607-876b-b453b0278147,female,Monika,Grütters,CDU,Bundestag,Literatur- und Kunsthistorikerin,0,0,https://www.abgeordnetenwatch.de/profile/monika-grutters
+2015-05-22 01:08,brigitte-zypries,ad2d8058-60fb-45de-9fe6-12c4e0ba893e,female,Brigitte,Zypries,SPD,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/brigitte-zypries
+2015-05-12 10:00,dirk-heidenblut,ad54f78b-d153-4cdd-aeb5-5a894a0f761c,male,Dirk,Heidenblut,SPD,Bundestag,Geschäftsführer,0,0,https://www.abgeordnetenwatch.de/profile/dirk-heidenblut
+2015-05-29 01:08,kai-whittaker,ad57c925-3b3f-4ca9-a80e-fbbdae59eb34,male,Kai,Whittaker,CDU,Bundestag,Wirtschaftswissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/kai-whittaker
+2015-05-12 10:00,petra-hinz,ad7ea26d-f168-41e3-ab09-de62d3d7d53b,female,Petra,Hinz,SPD,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/petra-hinz
+2015-05-13 01:08,oliver-krischer,ad966642-d779-43a5-a3d2-681cf7940b97,male,Oliver,Krischer,DIE GRÜNEN,Bundestag,Wissenschaftlicher Mitarbeiter,0,0,https://www.abgeordnetenwatch.de/profile/oliver-krischer
+2015-05-18 01:08,cansel-kiziltepe,adae65f8-0eed-4ca2-ae54-335fbdfd7261,female,Cansel,Kiziltepe,SPD,Bundestag,Diplom-Volkswirtin,0,0,https://www.abgeordnetenwatch.de/profile/cansel-kiziltepe
+2015-05-12 09:00,dr-egon-juttner,adec4cf7-dd9a-48bf-a4ee-cf3fbaf3f5bb,male,Egon,Jüttner,CDU,Bundestag,Universitätsprofessor a. D.,0,0,https://www.abgeordnetenwatch.de/profile/dr-egon-juttner
+2015-05-31 01:08,rudiger-kruse,ae47ece8-fffe-4cec-808b-29019a58661b,male,Rüdiger,Kruse,CDU,Bundestag,Geschäftsführer,0,0,https://www.abgeordnetenwatch.de/profile/rudiger-kruse
+2015-05-30 01:08,jens-spahn,af816c9b-980b-40f3-b99d-a829f0cb672d,male,Jens,Spahn,CDU,Bundestag,"Bankkaufmann, Politologe",0,0,https://www.abgeordnetenwatch.de/profile/jens-spahn
+2015-05-30 01:08,carsten-muller,af89ed77-3bb9-4eac-a98d-610687fff863,male,Carsten,Müller,CDU,Bundestag,"Bankkaufmann, Rechtsanwalt",0,0,https://www.abgeordnetenwatch.de/profile/carsten-muller
+2015-05-28 12:11,maik-beermann,b02e065a-619b-44d2-a557-43edb22630b8,male,Maik,Beermann,CDU,Bundestag,Sparkassenbetriebswirt,0,0,https://www.abgeordnetenwatch.de/profile/maik-beermann
+2015-05-12 10:00,ansgar-heveling,b037f3fa-6a43-4cd5-8f7c-7b8328bc018e,male,Ansgar,Heveling,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/ansgar-heveling
+2015-05-12 11:00,peter-beyer,b05133d1-b123-45a2-8703-8852e7d701f2,male,Peter,Beyer,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/peter-beyer
+2015-05-12 09:00,roy-kuhne,b096ed7b-9b6d-4f79-94fe-66cec3495d17,male,Roy,Kühne,CDU,Bundestag,"Diplom-Sporttherapeut, Physiotherapeut",0,0,https://www.abgeordnetenwatch.de/profile/roy-kuhne
+2015-05-12 11:00,marieluise-beck,b0980029-a545-4839-98fa-06c0b63a9029,female,Marieluise,Beck,DIE GRÜNEN,Bundestag,"Lehramtstudium (Deutsch, Geschichte, Gemeinschaftskunde)",0,0,https://www.abgeordnetenwatch.de/profile/marieluise-beck
+2015-05-12 11:00,doris-barnett,b0cf3676-8beb-4eae-b479-780162d562a0,female,Doris,Barnett,SPD,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/doris-barnett
+2015-05-14 01:08,wilfried-oellers,b10a6813-8721-4067-96c9-7ca6d67ff7c4,male,Wilfried,Oellers,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/wilfried-oellers
+2015-05-15 01:08,sigrid-hupach,b18bef04-195e-4aa8-8500-9caf1ec57894,female,Sigrid,Hupach,DIE LINKE,Bundestag,Diplom-Ingenieurin (FH) FB Architektur,0,0,https://www.abgeordnetenwatch.de/profile/sigrid-hupach
+2015-05-12 09:00,jutta-krellmann,b1fe9e54-6e7b-4808-9b6f-d85f2239613c,female,Jutta,Krellmann,DIE LINKE,Bundestag,Gewerkschaftssekretärin,0,0,https://www.abgeordnetenwatch.de/profile/jutta-krellmann
+2015-05-29 01:08,kerstin-griese,b32f383d-1f8e-4eb5-b618-e327a4c7df84,female,Kerstin,Griese,SPD,Bundestag,"Historikerin, sozialpolitischer Vorstand",0,0,https://www.abgeordnetenwatch.de/profile/kerstin-griese
+2015-05-31 01:08,marlene-mortler,b42a560e-5996-41c0-ab1f-3e3435dfc65f,female,Marlene,Mortler,CSU,Bundestag,Meisterin der Ländlichen Hauswirtschaft,0,0,https://www.abgeordnetenwatch.de/profile/marlene-mortler
+2015-05-15 01:08,cornelia-mohring,b43059f3-e448-4071-9630-13982c226c2a,female,Cornelia,Möhring,DIE LINKE,Bundestag,Diplom-Sozialökonomin,0,0,https://www.abgeordnetenwatch.de/profile/cornelia-mohring
+2015-05-27 01:08,alexander-dobrindt,b4377d89-0785-4acf-a332-b985b0327229,male,Alexander,Dobrindt,CSU,Bundestag,Diplomsoziologe,0,0,https://www.abgeordnetenwatch.de/profile/alexander-dobrindt
+2015-05-23 01:08,dennis-rohde,b4c614eb-0ba9-4b07-8783-302300c27836,male,Dennis,Rohde,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/dennis-rohde
+2015-05-12 02:00,gisela-manderla,b4d6ed9c-a466-4e90-b6b8-3b58c4b95dff,female,Gisela,Manderla,CDU,Bundestag,selbständig,0,0,https://www.abgeordnetenwatch.de/profile/gisela-manderla
+2015-05-12 02:00,dietmar-nietan,b4db564a-cc75-4464-b01a-fbb1d3a7640d,male,Dietmar,Nietan,SPD,Bundestag,Angestellter,0,0,https://www.abgeordnetenwatch.de/profile/dietmar-nietan
+2015-05-12 01:00,dr-axel-troost,b5494d57-d42f-43c2-95d8-83a051d72d88,male,Axel,Troost,DIE LINKE,Bundestag,Diplom-Volkswirt,0,0,https://www.abgeordnetenwatch.de/profile/dr-axel-troost
+2015-05-11 23:01,bettina-muller,b5b59a73-2820-4967-829b-916c855bc2b0,female,Bettina,Müller,SPD,Bundestag,"Krankenschwester, Rechtsanwältin",0,0,https://www.abgeordnetenwatch.de/profile/bettina-muller
+2015-05-24 01:08,ulrike-bahr,b6d4eae8-8d9f-44c0-abab-7f7918656a04,female,Ulrike,Bahr,SPD,Bundestag,Hauptschullehrerin,0,0,https://www.abgeordnetenwatch.de/profile/ulrike-bahr
+2015-05-12 00:00,katrin-werner,b6e4f57e-7acf-432e-b1a9-57e060195636,female,Katrin,Werner,DIE LINKE,Bundestag,Kauffrau im Einzelhandel,0,0,https://www.abgeordnetenwatch.de/profile/katrin-werner
+2015-05-24 01:08,christian-schmidt-2,b71c308f-2cf3-4f24-a880-c427c4267369,male,Christian,Schmidt,CSU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/christian-schmidt-2
+2015-05-12 09:00,kerstin-kassner,b77caba8-1831-4899-9d74-b3981d046896,female,Kerstin,Kassner,DIE LINKE,Bundestag,Diplomökon. des Gaststätten- und Hotelwesens,0,0,https://www.abgeordnetenwatch.de/profile/kerstin-kassner
+2015-05-12 11:00,dr-katarina-barley,b78c0b99-9ef0-4c8e-830a-fe7ff7b72c75,female,Katarina,Barley,SPD,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/dr-katarina-barley
+2015-05-12 00:00,markus-kurth,b79eb877-c2db-42c2-a8a6-41101143324b,male,Markus,Kurth,DIE GRÜNEN,Bundestag,Politologe,0,0,https://www.abgeordnetenwatch.de/profile/markus-kurth
+2015-05-12 11:00,kerstin-andreae,b7eee357-7e4c-4db6-b9b5-5b9bb0b44ed5,female,Kerstin,Andreae,DIE GRÜNEN,Bundestag,Volkswirtin,0,0,https://www.abgeordnetenwatch.de/profile/kerstin-andreae
+2015-05-24 01:08,heidrun-bluhm,b7f04a68-c24f-42e5-adf8-3769e9285ab3,female,Heidrun,Bluhm,DIE LINKE,Bundestag,"Bauzeichner, Gesellschaftswissenschaftler",0,0,https://www.abgeordnetenwatch.de/profile/heidrun-bluhm
+2015-05-12 09:00,uwe-kekeritz,b8106a13-3a3f-487e-bafb-734a419f4d58,male,Uwe,Kekeritz,DIE GRÜNEN,Bundestag,Volkswirt,0,0,https://www.abgeordnetenwatch.de/profile/uwe-kekeritz
+2015-05-12 02:00,lisa-paus,b8262af4-35ff-4c63-8871-5e0d707ed98b,female,Lisa,Paus,DIE GRÜNEN,Bundestag,Diplom-Volkswirtin,0,0,https://www.abgeordnetenwatch.de/profile/lisa-paus
+2015-05-23 01:08,stephan-mayer,b871ca92-7cc1-43b6-be90-40177039708e,male,Stephan,Mayer,CSU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/stephan-mayer
+2015-05-12 10:00,peter-hintze,b8b3ea18-c892-479b-94e9-97020d955189,male,Peter,Hintze,CDU,Bundestag,"Evangelischer Theologe, Vizepräsident des Deutschen Bundestages",0,0,https://www.abgeordnetenwatch.de/profile/peter-hintze
+2015-05-12 01:00,albert-rupprecht,b9378645-f040-4f84-bc30-a21e1558a3a8,male,Albert,Rupprecht,CSU,Bundestag,Diplomvolkswirt,0,0,https://www.abgeordnetenwatch.de/profile/albert-rupprecht
+2015-05-12 10:00,uwe-feiler,b9747fc9-982d-4070-a8e4-42ee3e974234,male,Uwe,Feiler,CDU,Bundestag,Diplom-Finanzwirt,0,0,https://www.abgeordnetenwatch.de/profile/uwe-feiler
+2015-05-14 01:08,astrid-groteluschen,b9c426e8-94de-4fba-9008-b7c95ea7a4c8,female,Astrid,Grotelüschen,CDU,Bundestag,Diplom-Oecotrophologin,0,0,https://www.abgeordnetenwatch.de/profile/astrid-groteluschen
+2015-05-11 23:01,frithjof-schmidt,ba465005-6da8-4a6e-a7b5-a79d6ca6afe4,male,Frithjof,Schmidt,DIE GRÜNEN,Bundestag,Sozialwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/frithjof-schmidt
+2015-05-23 01:08,eva-hogl,ba9e390f-c963-4b80-b1c6-c236958341c4,female,Eva,Högl,SPD,Bundestag,Juristin,0,0,https://www.abgeordnetenwatch.de/profile/eva-hogl
+2015-05-12 02:00,sibylle-pfeiffer,baa11c28-d249-4c74-b105-2e20c32964b6,female,Sibylle,Pfeiffer,CDU,Bundestag,Kauffrau,0,0,https://www.abgeordnetenwatch.de/profile/sibylle-pfeiffer
+2015-05-12 01:00,kristina-schroder,babda4af-fb32-40da-8928-e7ea82ea474d,female,Kristina,Schröder,CDU,Bundestag,Diplomsoziologin,0,0,https://www.abgeordnetenwatch.de/profile/kristina-schroder
+2015-05-18 01:08,harald-ebner,bb3f55be-637d-4336-9d89-2b95ca79ee12,male,Harald,Ebner,DIE GRÜNEN,Bundestag,"Diplom-Agraringenieur, Landschaftsökologe",0,0,https://www.abgeordnetenwatch.de/profile/harald-ebner
+2015-05-13 01:08,josip-juratovic,bb8705c3-0dea-4c18-a804-57bc6389aff8,male,Josip,Juratovic,SPD,Bundestag,Kfz-Mechaniker,0,0,https://www.abgeordnetenwatch.de/profile/josip-juratovic
+2015-05-24 01:08,stefan-rebmann,bceb17c9-dada-471f-aeca-cb4c4cb8010b,male,Stefan,Rebmann,SPD,Bundestag,Energieanlagenelektroniker,0,0,https://www.abgeordnetenwatch.de/profile/stefan-rebmann
+2015-05-20 01:08,ursula-von-der-leyen,bd094ef2-cc8f-4295-b38d-52eec82a8a3a,female,Ursula,von der Leyen,CDU,Bundestag,Ärztin,0,0,https://www.abgeordnetenwatch.de/profile/ursula-von-der-leyen
+2015-05-12 11:00,dr-reinhard-brandl,bddfe8e1-7316-444a-a85a-f17e35b6648b,male,Reinhard,Brandl,CSU,Bundestag,Dipl.-Wirtschaftsingenieur,0,0,https://www.abgeordnetenwatch.de/profile/dr-reinhard-brandl
+2015-05-29 01:08,dr-frank-walter-steinmeier,be0bfdf9-9530-4c02-8787-2d896b6a8374,male,Frank-Walter,Steinmeier,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/dr-frank-walter-steinmeier
+2015-05-13 01:08,roderich-kiesewetter,bf32dc18-871c-49f4-b640-790497cbeb91,male,Roderich,Kiesewetter,CDU,Bundestag,"Diplom-Kaufmann, Oberst a.D.",0,0,https://www.abgeordnetenwatch.de/profile/roderich-kiesewetter
+2015-05-20 01:08,beate-walter-rosenheimer,bf548c17-28a9-4e05-a0fa-4b1659b1d8d8,female,Beate,Walter-Rosenheimer,DIE GRÜNEN,Bundestag,Diplom Psychologin,0,0,https://www.abgeordnetenwatch.de/profile/beate-walter-rosenheimer
+2015-05-12 10:00,peter-gauweiler,bf640005-4ccf-45c6-a1a5-4795f6df3ff6,male,Peter,Gauweiler,CSU,Bundestag,Jurist und Publizist,0,0,https://www.abgeordnetenwatch.de/profile/peter-gauweiler
+2015-05-12 01:00,martina-stamm-fibich,bf822de8-f15c-45ca-a608-874f6bccbf33,female,Martina,Stamm-Fibich,SPD,Bundestag,"Marketing- und Kommunikationsmanagerin, Betriebsrätin",0,0,https://www.abgeordnetenwatch.de/profile/martina-stamm-fibich
+2015-05-15 01:08,florian-hahn,c050c590-c0b7-4223-b063-f2c287aa473b,male,Florian,Hahn,CSU,Bundestag,Diplom Marketing Fachwirt (BAW),0,0,https://www.abgeordnetenwatch.de/profile/florian-hahn
+2015-05-31 01:08,dr-heinz-riesenhuber,c0870703-5253-43c7-94ee-7af0d8475f64,male,Heinz,Riesenhuber,CDU,Bundestag,Diplomchemiker,0,0,https://www.abgeordnetenwatch.de/profile/dr-heinz-riesenhuber
+2015-05-24 01:08,gabi-weber,c0aaa650-de62-41a9-9ace-6cf337be0202,female,Gabi,Weber,SPD,Bundestag,Keramikmalerin,0,0,https://www.abgeordnetenwatch.de/profile/gabi-weber
+2015-05-12 11:00,dr-daniela-de-ridder,c108456d-b331-4ccb-91a1-3110b36cf09b,female,Daniela,De Ridder,SPD,Bundestag,Unternehmensberaterin,0,0,https://www.abgeordnetenwatch.de/profile/dr-daniela-de-ridder
+2015-05-26 01:08,dr-maria-flachsbarth,c14636a8-e6d1-4829-a70c-80f0921c76ae,female,Maria,Flachsbarth,CDU,Bundestag,Tierärztin,0,0,https://www.abgeordnetenwatch.de/profile/dr-maria-flachsbarth
+2015-05-19 01:09,stephan-albani,c1f82b3f-2f91-4f79-a7aa-577895c3b6ca,male,Stephan,Albani,CDU,Bundestag,"Diplom-Physiker, Geschäftsführender Gesellschafter",0,0,https://www.abgeordnetenwatch.de/profile/stephan-albani
+2015-05-12 10:00,mark-hauptmann,c2223ef9-8230-415c-b828-def8397599be,male,Mark,Hauptmann,CDU,Bundestag,Politikwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/mark-hauptmann
+2015-05-11 23:01,detlef-seif,c2d05a34-99a4-4a37-9b49-4f7b118d7f38,male,Detlef,Seif,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/detlef-seif
+2015-05-12 10:00,karl-holmeier,c2d73739-533f-4134-b009-b7e05a560843,male,Karl,Holmeier,CSU,Bundestag,Bankkaufmann,0,0,https://www.abgeordnetenwatch.de/profile/karl-holmeier
+2015-05-30 01:08,nicole-maisch,c375fed9-2002-4980-afe9-f3862b3dbd91,female,Nicole,Maisch,DIE GRÜNEN,Bundestag,Politikwissenschaftlerin,0,0,https://www.abgeordnetenwatch.de/profile/nicole-maisch
+2015-05-12 14:43,armin-schuster,c3a26c1b-6911-4783-bb0d-1e0c7fd22e8d,male,Armin,Schuster,CDU,Bundestag,Polizeidirektor a.D.,0,0,https://www.abgeordnetenwatch.de/profile/armin-schuster
+2015-05-29 01:08,stefan-kaufmann,c3b03901-6272-4233-adcb-e5e1daaa267c,male,Stefan,Kaufmann,CDU,Bundestag,"Rechtsanwalt, Bundestagsabgeordneter",0,0,https://www.abgeordnetenwatch.de/profile/stefan-kaufmann
+2015-05-24 01:08,dr-barbel-kofler,c4d836be-a18b-47a9-9e04-d82b8f005e3e,female,Bärbel,Kofler,SPD,Bundestag,"Bankkauffrau, Dipl.-Informatikerin (FH), Sprachwissenschaftlerin",0,0,https://www.abgeordnetenwatch.de/profile/dr-barbel-kofler
+2015-05-12 11:00,helmut-brandt,c4db1aa8-1c42-4e3a-92cc-849a298057fa,male,Helmut,Brandt,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/helmut-brandt
+2015-05-24 01:08,dirk-fischer,c53c19b6-4363-4cce-9df5-221ab85529bf,male,Dirk,Fischer,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/dirk-fischer
+2015-05-15 01:08,michael-stubgen,c5647914-d579-4c03-99e0-8cb8497f4327,male,Michael,Stübgen,CDU,Bundestag,"Pfarrer, Baufacharbeiter",0,0,https://www.abgeordnetenwatch.de/profile/michael-stubgen
+2015-05-12 11:00,roland-claus,c5b3c319-d038-4c76-b542-9e139ddb558c,male,Roland,Claus,DIE LINKE,Bundestag,Diplomingenieurökonom,0,0,https://www.abgeordnetenwatch.de/profile/roland-claus
+2015-05-28 12:10,richard-pitterle,c5bf64b4-4f09-40b8-b1bb-cd0feac8be45,male,Richard,Pitterle,DIE LINKE,Bundestag,Fachanwalt für Arbeitsrecht,0,0,https://www.abgeordnetenwatch.de/profile/richard-pitterle
+2015-05-11 23:01,yvonne-magwas,c5ec6414-2304-4326-92bc-c52198d86c89,female,Yvonne,Magwas,CDU,Bundestag,Diplom-Soziologin,0,0,https://www.abgeordnetenwatch.de/profile/yvonne-magwas
+2015-05-15 01:08,jan-korte,c667afb6-a2d3-49ed-9b2a-1f7440cb19da,male,Jan,Korte,DIE LINKE,Bundestag,Politikwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/jan-korte
+2015-05-31 01:08,dr-gregor-gysi,c6e58786-a436-44f2-8466-1a402aa846c7,male,Gregor,Gysi,DIE LINKE,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/dr-gregor-gysi
+2015-05-30 01:08,joachim-pfeiffer,c81f6649-2674-4ad2-87ef-d4d343dd30ed,male,Joachim,Pfeiffer,CDU,Bundestag,Diplomkaufmann,0,0,https://www.abgeordnetenwatch.de/profile/joachim-pfeiffer
+2015-05-12 10:00,uda-heller,c8508105-7022-40d6-b5d9-df0358c7bcc4,female,Uda,Heller,CDU,Bundestag,Lebensmittelkonserviererin,0,0,https://www.abgeordnetenwatch.de/profile/uda-heller
+2015-05-12 01:00,axel-schafer,c8cf40f6-58f9-4f8e-9f35-24c2ad82518f,male,Axel,Schäfer,SPD,Bundestag,Generalsekretär,0,0,https://www.abgeordnetenwatch.de/profile/axel-schafer
+2015-05-12 09:00,markus-koob,c951fabf-c200-4b25-98f2-628c97e5c5f8,male,Markus,Koob,CDU,Bundestag,"Studium des Politikwissenschaften (Hauptfach), Öffentliches Recht, (Nebenfach) und Bürgerliches Recht (Nebenfach)",0,0,https://www.abgeordnetenwatch.de/profile/markus-koob
+2015-05-12 11:00,ekin-deligoz,c979cf7e-627e-4493-a155-eb9d3352cda2,female,Ekin,Deligöz,DIE GRÜNEN,Bundestag,Diplom-Verwaltungswissenschaftlerin,0,0,https://www.abgeordnetenwatch.de/profile/ekin-deligoz
+2015-05-12 10:00,dr-edgar-franke,c98f9df8-791e-4298-af94-02c0cec2c434,male,Edgar,Franke,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/dr-edgar-franke
+2015-05-22 01:09,michael-fuchs,c99b7070-27c4-4b8e-9d5e-4f3165822fac,male,Michael,Fuchs,CDU,Bundestag,Apotheker,0,0,https://www.abgeordnetenwatch.de/profile/michael-fuchs
+2015-05-12 02:00,maria-michalk,c9ee8fb6-5255-4d97-bd7b-2b8d23616cdf,female,Maria,Michalk,CDU,Bundestag,Ökonom,0,0,https://www.abgeordnetenwatch.de/profile/maria-michalk
+2015-05-21 01:08,julia-verlinden,c9f91d85-9ee5-4345-bdb2-79aa98a231bd,female,Julia,Verlinden,DIE GRÜNEN,Bundestag,Diplom-Umweltwissenschaftlerin,0,0,https://www.abgeordnetenwatch.de/profile/julia-verlinden
+2015-05-12 02:00,susanne-mittag,ca0b0030-e1ca-4b32-8eb3-4c2832bf3815,female,Susanne,Mittag,SPD,Bundestag,Polizeibeamtin,0,0,https://www.abgeordnetenwatch.de/profile/susanne-mittag
+2015-05-14 01:08,antje-tillmann,ca22f080-ec9f-4d59-b4d8-cdc729683fed,female,Antje,Tillmann,CDU,Bundestag,Steuerberaterin,0,0,https://www.abgeordnetenwatch.de/profile/antje-tillmann
+2015-05-22 01:08,hans-georg-von-der-marwitz,ca70eaf8-f3e2-4ead-aaff-c9d12a5ce07d,male,Hans-Georg,von der Marwitz,CDU,Bundestag,Landwirt,0,0,https://www.abgeordnetenwatch.de/profile/hans-georg-von-der-marwitz
+2015-05-14 01:08,lothar-riebsamen,caf0b4e5-1a04-42ab-9bec-ce297173d192,male,Lothar,Riebsamen,CDU,Bundestag,Bürgermeister a.D.,0,0,https://www.abgeordnetenwatch.de/profile/lothar-riebsamen
+2015-05-23 01:08,philipp-misfelder,cb30f48c-d7f4-4f18-a081-94da2368a047,male,Philipp,Mißfelder,CDU,Bundestag,Historiker,0,0,https://www.abgeordnetenwatch.de/profile/philipp-misfelder
+2015-05-12 01:00,karin-strenz,cb6eed64-3aaf-4edb-b339-445aaacf738f,female,Karin,Strenz,CDU,Bundestag,Sonderschullehrerin,0,0,https://www.abgeordnetenwatch.de/profile/karin-strenz
+2015-05-22 01:08,katrin-goring-eckardt,cb970cbe-d16a-4961-8377-0cbfe0d6ff6e,female,Katrin,Göring-Eckardt,DIE GRÜNEN,Bundestag,Politikerin,0,0,https://www.abgeordnetenwatch.de/profile/katrin-goring-eckardt
+2015-05-12 00:00,thomas-hitschler,cba6c788-60dd-4989-972f-62a586ae0dbd,male,Thomas,Hitschler,SPD,Bundestag,Politikwissenschaftler,0,0,https://www.abgeordnetenwatch.de/profile/thomas-hitschler
+2015-05-22 01:08,albert-weiler,cbdde860-6842-41eb-a405-f3cf82af507d,male,Albert,Weiler,CDU,Bundestag,Verwaltungs- und Betriebswirt,0,0,https://www.abgeordnetenwatch.de/profile/albert-weiler
+2015-05-28 12:10,dr-volker-ullrich,cc7bd344-2fd6-413f-8f17-598010816295,male,Volker,Ullrich,CSU,Bundestag,Jurist und Diplom-Kaufmann,0,0,https://www.abgeordnetenwatch.de/profile/dr-volker-ullrich
+2015-05-12 11:00,kees-de-vries,cc876cde-31f1-45d8-b0a0-40b38ec91ce6,male,Kees de,Vries,CDU,Bundestag,Selbstständiger Unternehmer,0,0,https://www.abgeordnetenwatch.de/profile/kees-de-vries
+2015-05-13 01:08,dr-frank-steffel,cd2c455e-67cb-47c6-b334-b4873750ab8f,male,Frank,Steffel,CDU,Bundestag,Diplom-Kaufmann,0,0,https://www.abgeordnetenwatch.de/profile/dr-frank-steffel
+2015-05-12 02:00,kirsten-luhmann,cda69e50-d9bb-4f24-a85c-e986cdb4d602,female,Kirsten,Lühmann,SPD,Bundestag,Polizeibeamtin,0,0,https://www.abgeordnetenwatch.de/profile/kirsten-luhmann
+2015-05-22 01:09,marco-bulow,cde35ebc-2d9e-4859-8cf0-2d15fd463d8f,male,Marco,Bülow,SPD,Bundestag,Freier Journalist,0,0,https://www.abgeordnetenwatch.de/profile/marco-bulow
+2015-05-12 09:00,ralf-kapschack,cde8ea6b-5cb8-42c3-86e5-16f05e9113a2,male,Ralf,Kapschack,SPD,Bundestag,Journalist,0,0,https://www.abgeordnetenwatch.de/profile/ralf-kapschack
+2015-05-15 01:08,jurgen-trittin,ce1b06b0-2bae-4acf-a44a-14805cd1327e,male,Jürgen,Trittin,DIE GRÜNEN,Bundestag,"Diplom-Sozialwirt, Journalist",0,0,https://www.abgeordnetenwatch.de/profile/jurgen-trittin
+2015-05-12 09:00,michael-leutert,ce4218f8-bcbd-4436-9188-dbbf32a1bf8b,male,Michael,Leutert,DIE LINKE,Bundestag,Diplom-Soziologe,0,0,https://www.abgeordnetenwatch.de/profile/michael-leutert
+2015-05-23 01:08,thorsten-hoffmann,cefa53c2-1acb-44cb-8865-70258efcd79c,male,Thorsten,Hoffmann,CDU,Bundestag,Polizeibeamter/Polizeihauptkommissar,0,0,https://www.abgeordnetenwatch.de/profile/thorsten-hoffmann
+2015-05-12 10:00,ulrike-gottschalck,cf2fb66b-95e2-49c8-aad0-8e7fa97b929d,female,Ulrike,Gottschalck,SPD,Bundestag,Kinderpflegerin,0,0,https://www.abgeordnetenwatch.de/profile/ulrike-gottschalck
+2015-05-11 23:01,bernd-siebert,cf7857ee-19f0-45d8-bf64-a445358d1c48,male,Bernd,Siebert,CDU,Bundestag,Selbständiger Kaufmann,0,0,https://www.abgeordnetenwatch.de/profile/bernd-siebert
+2015-05-17 01:08,tabea-rosner,cf832988-3ab3-4bf6-bb0a-318c11730cbd,female,Tabea,Rößner,DIE GRÜNEN,Bundestag,Journalistin,0,0,https://www.abgeordnetenwatch.de/profile/tabea-rosner
+2015-05-17 01:08,hilde-mattheis,d00f3cb5-e187-4aea-acc2-fbee1aec74c4,female,Hilde,Mattheis,SPD,Bundestag,Lehrerin,0,0,https://www.abgeordnetenwatch.de/profile/hilde-mattheis
+2015-05-12 02:00,sabine-poschmann,d03a6f40-d327-4ed1-b91e-f6169dfd8284,female,Sabine,Poschmann,SPD,Bundestag,Regionalmanagerin,0,0,https://www.abgeordnetenwatch.de/profile/sabine-poschmann
+2015-05-12 01:00,michael-roth,d04db7dd-812d-4a97-a4af-0a997fdb23e1,male,Michael,Roth,SPD,Bundestag,Diplom-Politologe,0,0,https://www.abgeordnetenwatch.de/profile/michael-roth
+2015-05-12 09:00,jens-koeppen,d0e0a006-8171-4ea8-8112-ad3a9cb0027c,male,Jens,Koeppen,CDU,Bundestag,Elektro-Techniker,0,0,https://www.abgeordnetenwatch.de/profile/jens-koeppen
+2015-05-18 01:08,dr-hans-peter-bartels,d0e36c6a-ce2e-49bc-b480-120f1fb92ce3,male,Hans-Peter,Bartels,SPD,Bundestag,Journalist,0,0,https://www.abgeordnetenwatch.de/profile/dr-hans-peter-bartels
+2015-05-11 23:01,margaret-horb,d1b6fbd3-5f5c-4a2a-b2e3-0709f1f321b7,female,Margaret,Horb,CDU,Bundestag,Diplom Finanzwirt (FH) - Angestellte,0,0,https://www.abgeordnetenwatch.de/profile/margaret-horb
+2015-05-12 10:00,petra-ernstberger,d21e5c52-ed98-43b4-8e8c-d8fd05b0653f,female,Petra,Ernstberger,SPD,Bundestag,Lehrerin,0,0,https://www.abgeordnetenwatch.de/profile/petra-ernstberger
+2015-05-12 02:00,dr-martin-patzold,d22c424e-74e6-4b5f-ba1f-4e60dda6849d,male,Martin,Pätzold,CDU,Bundestag,Diplom-Kaufmann,0,0,https://www.abgeordnetenwatch.de/profile/dr-martin-patzold
+2015-05-12 01:00,norbert-schindler,d252f21e-d708-4e2f-bda4-77b841474541,male,Norbert,Schindler,CDU,Bundestag,"Ökonomierat, Landwirtschaftsmeister, Winzer",0,0,https://www.abgeordnetenwatch.de/profile/norbert-schindler
+2015-05-12 01:00,christoph-strasser,d2e2bc00-efe8-4503-9c52-00b02395cb0b,male,Christoph,Strässer,SPD,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/christoph-strasser
+2015-05-12 10:00,karin-evers-meyer,d40b97c8-104a-42aa-9c62-4296be62dc4f,female,Karin,Evers-Meyer,SPD,Bundestag,"Journalistin, Autorin",0,0,https://www.abgeordnetenwatch.de/profile/karin-evers-meyer
+2015-05-12 09:00,bettina-hornhues,d4b3a06c-9664-47fb-af52-3b1d380fd78c,female,Bettina,Hornhues,CDU,Bundestag,Bankkauffrau,0,0,https://www.abgeordnetenwatch.de/profile/bettina-hornhues
+2015-05-29 01:08,stephan-stracke,d4ba9524-b108-45ed-971b-6dcd49815bc0,male,Stephan,Stracke,CSU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/stephan-stracke
+2015-05-21 01:08,martin-patzelt,d55718a1-aa47-4dcf-8a46-2a8bc8fba1da,male,Martin,Patzelt,CDU,Bundestag,Diplom Sozialpädagoge/Sozialarbeiter,0,0,https://www.abgeordnetenwatch.de/profile/martin-patzelt
+2015-05-12 09:00,birgit-kompel,d62b840b-38fe-42ca-a34f-ca2ae3b3e8cf,female,Birgit,Kömpel,SPD,Bundestag,Personalberaterin,0,0,https://www.abgeordnetenwatch.de/profile/birgit-kompel
+2015-05-12 09:00,christina-kampmann,d70cdc53-3d4d-4440-b784-683ba82a5114,female,Christina,Kampmann,SPD,Bundestag,Politikwissenschaftlerin,0,0,https://www.abgeordnetenwatch.de/profile/christina-kampmann
+2015-05-12 01:00,sebastian-steineke,d73cd422-8c9f-4b2c-9cc5-e83c256b4cc0,male,Sebastian,Steineke,CDU,Bundestag,Rechtsanwalt,0,0,https://www.abgeordnetenwatch.de/profile/sebastian-steineke
+2015-05-12 10:00,christian-haase,d7a516dd-5507-4ad4-a7a9-ba616cd65e23,male,Christian,Haase,CDU,Bundestag,Diplomverwaltungswirt (FH) und Bürgermeister,0,0,https://www.abgeordnetenwatch.de/profile/christian-haase
+2015-05-29 01:08,sebastian-hartmann,d81b7f51-a3f2-4c5c-a4bf-06f7d0dccc89,male,Sebastian,Hartmann,SPD,Bundestag,Organisationsberater,0,0,https://www.abgeordnetenwatch.de/profile/sebastian-hartmann
+2015-05-12 11:00,michael-donth,d82c9816-e12a-457b-9336-5fcd2aaa182a,male,Michael,Donth,CDU,Bundestag,Bürgermeister,0,0,https://www.abgeordnetenwatch.de/profile/michael-donth
+2015-05-12 02:00,florian-pronold,d9aadf4b-dc13-4faf-953c-fdad15e7a324,male,Florian,Pronold,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/florian-pronold
+2015-05-27 01:08,erika-steinbach,d9e672fc-2a33-45c2-9a73-f45f31291541,female,Erika,Steinbach,CDU,Bundestag,"Informatikerin, Geigerin, Diplomverwaltungswirtin",0,0,https://www.abgeordnetenwatch.de/profile/erika-steinbach
+2015-05-23 01:08,stefan-liebich,da110872-c454-48b0-b09c-4ac649212487,male,Stefan,Liebich,DIE LINKE,Bundestag,Diplom-Betriebswirt (FH),0,0,https://www.abgeordnetenwatch.de/profile/stefan-liebich
+2015-05-22 01:09,waldemar-westermayer,da3ecb45-cbfc-4c0d-88c7-595e9089b13c,male,Waldemar,Westermayer,CDU,Bundestag,Landwirtschaftsmeister,0,0,https://www.abgeordnetenwatch.de/profile/waldemar-westermayer
+2015-05-12 10:00,hans-peter-friedrich,da7876fb-7753-4111-a134-4357e03b1980,male,Hans-Peter,Friedrich,CSU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/hans-peter-friedrich
+2015-05-12 14:43,hans-michelbach,daee3607-1857-47f6-bfe5-6b65f6721b25,male,Hans,Michelbach,CSU,Bundestag,Kaufmann im Groß- und Außenhandel,0,0,https://www.abgeordnetenwatch.de/profile/hans-michelbach
+2015-05-24 01:08,annette-groth,db9ce7b8-fbc1-4509-a8a7-778bb8b46785,female,Annette,Groth,DIE LINKE,Bundestag,Soziologin,0,0,https://www.abgeordnetenwatch.de/profile/annette-groth
+2015-05-12 02:00,henning-otte,dbaffce1-bbc7-4951-a7ab-d50003b30dc2,male,Henning,Otte,CDU,Bundestag,"Prokurist, Jurist",0,0,https://www.abgeordnetenwatch.de/profile/henning-otte
+2015-05-24 01:08,dr-birgit-malecha-nissen,dbbc069d-37c8-4b40-a1d1-1e983cf4655a,female,Birgit,Malecha-Nissen,SPD,Bundestag,Diplom-Geologin,0,0,https://www.abgeordnetenwatch.de/profile/dr-birgit-malecha-nissen
+2015-05-22 01:08,tobias-zech,dc4f950a-8ecd-4370-9f58-a73b72fdccab,male,Tobias,Zech,CSU,Bundestag,Kaufmännischer Angestellter,0,0,https://www.abgeordnetenwatch.de/profile/tobias-zech
+2015-05-21 01:08,annette-widmann--mauz,dc7b2ed8-8bf3-4d94-8a91-7054249f5fbe,female,Annette,Widmann- Mauz,CDU,Bundestag,Studium der Politik- und Rechtswissenschaften,0,0,https://www.abgeordnetenwatch.de/profile/annette-widmann--mauz
+2015-05-18 10:02,ingrid-pahlmann,dc7c21f3-1225-4ab7-9e03-701148ab150c,female,Ingrid,Pahlmann,CDU,Bundestag,Hauswirtschaftsleiterin (Hwl),0,0,https://www.abgeordnetenwatch.de/profile/ingrid-pahlmann
+2015-05-12 09:00,thomas-jurk,dce1389f-8208-47e7-a347-e5c8111c1ec9,male,Thomas,Jurk,SPD,Bundestag,Funkmechaniker,0,0,https://www.abgeordnetenwatch.de/profile/thomas-jurk
+2015-05-15 01:08,elisabeth-scharfenberg,dd5646c5-6ec8-4b83-ae3f-3997b926d0b9,female,Elisabeth,Scharfenberg,DIE GRÜNEN,Bundestag,"Diplom-Sozialpädagogin (FH), Berufsbetreuerin",0,0,https://www.abgeordnetenwatch.de/profile/elisabeth-scharfenberg
+2015-05-14 01:08,stefan-schwartze,dd716e2a-e6ed-456d-a0e5-4639c6071572,male,Stefan,Schwartze,SPD,Bundestag,Industriemechaniker,0,0,https://www.abgeordnetenwatch.de/profile/stefan-schwartze
+2015-05-12 11:00,heike-brehmer,de0ae036-4aa5-422a-8e68-0ed7e5ee74aa,female,Heike,Brehmer,CDU,Bundestag,Diplom-Betriebswirtin,0,0,https://www.abgeordnetenwatch.de/profile/heike-brehmer
+2015-05-31 01:08,kordula-schulz-asche,df071fbf-15b2-4eeb-bd90-0be7e2e6dd00,female,Kordula,Schulz-Asche,DIE GRÜNEN,Bundestag,"Krankenschwester, Kommunikationswissenschaftlerin",0,0,https://www.abgeordnetenwatch.de/profile/kordula-schulz-asche
+2015-05-14 01:08,carola-stauche,df5c200e-3317-4f02-bd4c-cafb97c29c18,female,Carola,Stauche,CDU,Bundestag,"Chemiefacharbeiterin, Verwaltungsfachwirtin",0,0,https://www.abgeordnetenwatch.de/profile/carola-stauche
+2015-05-12 09:00,gabriele-losekrug-moller,dfe553c8-3c96-498a-aa02-5ac4e62872e4,female,Gabriele,Lösekrug-Möller,SPD,Bundestag,Diplom-Sozialpädagogin,0,0,https://www.abgeordnetenwatch.de/profile/gabriele-losekrug-moller
+2015-05-12 11:00,lothar-binding,e00ac978-5e34-450c-b891-5c199c8e9387,male,Lothar,Binding,SPD,Bundestag,"Starkstromelektriker, Mathematiker",0,0,https://www.abgeordnetenwatch.de/profile/lothar-binding
+2015-05-12 01:00,dieter-stier,e0a86aa6-802a-486f-854f-4f98de4eee55,male,Dieter,Stier,CDU,Bundestag,Diplom-Agraringenieur,0,0,https://www.abgeordnetenwatch.de/profile/dieter-stier
+2015-05-14 01:09,andre-berghegger,e2517eb2-692f-4ce3-b473-da2cc9fc9e31,male,André,Berghegger,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/andre-berghegger
+2015-05-12 00:00,dr-karl-heinz-brunner,e32e8916-3b91-48ad-855d-50a0a63ac415,male,Karl-Heinz,Brunner,SPD,Bundestag,"Selbständiger Rechtsdienstleister und Wirtschaftsberater, Bürgermeister a.D., Kreisrat",0,0,https://www.abgeordnetenwatch.de/profile/dr-karl-heinz-brunner
+2015-05-14 01:09,bernhard-daldrup,e34d2883-27c3-41ff-90c6-9cc604fe287e,male,Bernhard,Daldrup,SPD,Bundestag,Politikwissenschaftler (M.A.),0,0,https://www.abgeordnetenwatch.de/profile/bernhard-daldrup
+2015-05-12 11:00,wolfgang-strengmann-kuhn,e372dee0-f2ee-4d9b-901b-cabbd423a536,male,Wolfgang,Strengmann-Kuhn,DIE GRÜNEN,Bundestag,promovierter und habilitierter Volkswirt,0,0,https://www.abgeordnetenwatch.de/profile/wolfgang-strengmann-kuhn
+2015-05-27 01:08,peter-altmaier,e3f479c9-8fa3-4be3-9209-6c6fd39ddc6f,male,Peter,Altmaier,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/peter-altmaier
+2015-05-20 01:08,nadine-schon,e3fdb5ae-4573-408b-98f0-f3f55650287f,female,Nadine,Schön,CDU,Bundestag,Diplom-Juristin,0,0,https://www.abgeordnetenwatch.de/profile/nadine-schon
+2015-05-29 01:08,manfred-grund,e4019f04-4d62-43c8-8c40-6102faa36247,male,Manfred,Grund,CDU,Bundestag,Diplomelektroingenieur,0,0,https://www.abgeordnetenwatch.de/profile/manfred-grund
+2015-05-23 01:08,sevim-dagdelen,e43f7fd2-491d-4383-b8be-97c1ccf38c11,female,Sevim,Dagdelen,DIE LINKE,Bundestag,Journalistin,0,0,https://www.abgeordnetenwatch.de/profile/sevim-dagdelen
+2015-05-30 01:09,katja-dorner,e4e4516d-22a0-4ac0-b3e3-c3eb33a43c3c,female,Katja,Dörner,DIE GRÜNEN,Bundestag,"Studium der Politikwissenschaften, des Öffentlichen Rechts und der Literaturwissenschaften (M.A.)",0,0,https://www.abgeordnetenwatch.de/profile/katja-dorner
+2015-05-12 00:00,oswin-veith,e64dc903-e322-4707-b7b3-b44483200408,male,Oswin,Veith,CDU,Bundestag,"Verwaltungsjurist, Erster Kreisbeigeordneter a.D",0,0,https://www.abgeordnetenwatch.de/profile/oswin-veith
+2015-05-11 23:01,patrick-schnieder,e681cf8f-73cb-4b1a-857c-53992a0fa9bf,male,Patrick,Schnieder,CDU,Bundestag,Bürgermeister a.D.,0,0,https://www.abgeordnetenwatch.de/profile/patrick-schnieder
+2015-05-12 02:00,achim-post,e6a76034-7212-4ce1-b8d1-e15918482247,male,Achim,Post,SPD,Bundestag,Diplom-Soziologe,0,0,https://www.abgeordnetenwatch.de/profile/achim-post
+2015-05-28 12:10,gunter-krings,e70ae6c5-5f58-4394-84e0-073d67d0f3d2,male,Günter,Krings,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/gunter-krings
+2015-05-11 23:01,matthaus-strebl,e71d8753-e094-4b62-876c-d04c760eeb30,male,Matthäus,Strebl,CSU,Bundestag,Bankkaufmann,0,0,https://www.abgeordnetenwatch.de/profile/matthaus-strebl
+2015-05-21 01:09,anja-karliczek,e7cdde14-c020-486e-9b2d-fec433ce9141,female,Anja,Karliczek,CDU,Bundestag,Leitende Angestellte im Familienbetrieb,0,0,https://www.abgeordnetenwatch.de/profile/anja-karliczek
+2015-05-12 00:00,markus-tressel,e7d6dea5-f5a3-47cb-99de-d8f833101699,male,Markus,Tressel,DIE GRÜNEN,Bundestag,Landesgeschäftsführer,0,0,https://www.abgeordnetenwatch.de/profile/markus-tressel
+2015-05-22 01:09,christina-jantz,e8ae491e-1c02-4cd9-b283-6ef456c179be,female,Christina,Jantz,SPD,Bundestag,Verwaltungsfachwirtin,0,0,https://www.abgeordnetenwatch.de/profile/christina-jantz
+2015-05-26 01:08,dr-matthias-miersch,e8d38c76-2dac-40ac-8db6-08cbbecd571a,male,Matthias,Miersch,SPD,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/dr-matthias-miersch
+2015-05-14 01:09,manfred-behrens,e909c1ac-0aa8-4286-a2d7-c58aab825a7f,male,Manfred,Behrens,CDU,Bundestag,"Verwaltungsvollzugsbeamter, Ortsbürgermeister",0,0,https://www.abgeordnetenwatch.de/profile/manfred-behrens
+2015-05-11 23:01,reiner-meier,e94f4ab8-6c73-48f7-a352-bc2ba1323497,male,Reiner,Meier,CSU,Bundestag,Diplom-Verwaltungswirt (FH),0,0,https://www.abgeordnetenwatch.de/profile/reiner-meier
+2015-05-27 01:08,gerda-hasselfeldt,e97d38f1-adff-4420-9c77-4f13768a9f9b,female,Gerda,Hasselfeldt,CSU,Bundestag,Diplomvolkswirtin,0,0,https://www.abgeordnetenwatch.de/profile/gerda-hasselfeldt
+2015-05-12 01:00,astrid-timmermann-fechter,ea1c38e4-ce06-4428-adf0-7875fa60846d,female,Astrid,Timmermann-Fechter,CDU,Bundestag,Geschäftsführerin,0,0,https://www.abgeordnetenwatch.de/profile/astrid-timmermann-fechter
+2015-05-21 01:09,jutta-eckenbach,ea2c3891-3046-41fc-b81d-c6f3d2913590,female,Jutta,Eckenbach,CDU,Bundestag,Bürokauffrau,0,0,https://www.abgeordnetenwatch.de/profile/jutta-eckenbach
+2015-05-31 01:08,jana-schimke,ea9c3b55-55d9-4d9e-999b-d5cc500298b5,female,Jana,Schimke,CDU,Bundestag,Diplom-Politikwissenschaftlerin,0,0,https://www.abgeordnetenwatch.de/profile/jana-schimke
+2015-05-11 23:01,johannes-steiniger,eafa3b4d-919c-4420-b3b1-2b274aff441b,male,Johannes,Steiniger,CDU,Bundestag,Referendar,0,0,https://www.abgeordnetenwatch.de/profile/johannes-steiniger
+2015-05-11 23:01,kordula-kovac,eb239553-d43a-4c30-b8f9-98fc984b0e78,female,Kordula,Kovac,CDU,Bundestag,Geschäftsführerin,0,0,https://www.abgeordnetenwatch.de/profile/kordula-kovac
+2015-05-24 01:08,simone-raatz,eb4b1bd3-cdf6-4967-8e67-c961162ddf9f,female,Simone,Raatz,SPD,Bundestag,Dipl.-Chemikerin,0,0,https://www.abgeordnetenwatch.de/profile/simone-raatz
+2015-05-12 02:00,stefan-muller,ebbd47c8-1d81-48eb-9598-2f32188d0dbd,male,Stefan,Müller,CSU,Bundestag,Bankfachwirt,0,0,https://www.abgeordnetenwatch.de/profile/stefan-muller
+2015-05-12 10:00,klaus-ernst,ec26b137-9778-4752-8565-92808705bbc3,male,Klaus,Ernst,DIE LINKE,Bundestag,Diplom-Volkswirt und Diplom-Sozialökonom,0,0,https://www.abgeordnetenwatch.de/profile/klaus-ernst
+2015-05-12 09:00,andrea-lindholz,ece5bb8e-3614-4e69-ad45-df2c0443e76f,female,Andrea,Lindholz,CSU,Bundestag,Rechtsanwältin,0,0,https://www.abgeordnetenwatch.de/profile/andrea-lindholz
+2015-05-12 09:00,helga-kuhn-mengel,ed960802-1c62-4829-9a41-53b48c93ce6b,female,Helga,Kühn-Mengel,SPD,Bundestag,Diplom-Psychologin,0,0,https://www.abgeordnetenwatch.de/profile/helga-kuhn-mengel
+2015-05-12 00:00,sabine-weiss,edd7cf78-b985-4134-9133-34a93256da78,female,Sabine,Weiss,CDU,Bundestag,"Rechtsanwältin, Bürgermeisterin a.D.",0,0,https://www.abgeordnetenwatch.de/profile/sabine-weiss
+2015-05-30 01:08,philipp-murmann,ee1f0a37-2f86-425d-b7b7-1173102dd409,male,Philipp,Murmann,CDU,Bundestag,Geschäftsführender Gesellschafter,0,0,https://www.abgeordnetenwatch.de/profile/philipp-murmann
+2015-05-12 01:00,ole-schroder,ee340d4a-74d5-4e44-8f6c-d233f82fc8f8,male,Ole,Schröder,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/ole-schroder
+2015-05-25 01:08,peter-tauber,ee650c23-9ebc-486d-bcf1-534dc22ad5ee,male,Peter,Tauber,CDU,Bundestag,Historiker,0,0,https://www.abgeordnetenwatch.de/profile/peter-tauber
+2015-05-19 01:08,nina-warken,ef1149dc-f433-4982-ae25-23cd092b5f76,female,Nina,Warken,CDU,Bundestag,Rechtsanwältin,0,0,https://www.abgeordnetenwatch.de/profile/nina-warken
+2015-05-20 01:08,matthias-ilgen,ef7b197f-2730-4ee7-8173-002a77c1f33f,male,Matthias,Ilgen,SPD,Bundestag,"Lehramtsstudium, Veranstaltungskaufmann",0,0,https://www.abgeordnetenwatch.de/profile/matthias-ilgen
+2015-05-14 01:09,marie-luise-dott,f014f5a3-9620-4b28-9f4d-e999b7502efe,female,Marie-Luise,Dött,CDU,Bundestag,"Einzelhandelskauffrau, Gemmologin, Edelsteingutachterin",0,0,https://www.abgeordnetenwatch.de/profile/marie-luise-dott
+2015-05-15 01:08,eva-bulling-schroter,f0c96eef-d08e-4aeb-a956-29a96fe42883,female,Eva,Bulling-Schröter,DIE LINKE,Bundestag,Schlosserin,0,0,https://www.abgeordnetenwatch.de/profile/eva-bulling-schroter
+2015-05-12 09:00,michael-kretschmer,f1ec12e1-cec5-4d09-a343-3245bf750d27,male,Michael,Kretschmer,CDU,Bundestag,Diplom-Wirtschaftsingenieur (FH),0,0,https://www.abgeordnetenwatch.de/profile/michael-kretschmer
+2015-05-12 01:00,dr-kirsten-tackmann,f201d720-033c-4895-82ad-949e95aa12d6,female,Kirsten,Tackmann,DIE LINKE,Bundestag,"Veterinärmedizinerin, Chemielaborantin",0,0,https://www.abgeordnetenwatch.de/profile/dr-kirsten-tackmann
+2015-05-25 01:08,marina-kermer,f2078ea7-71cd-4df5-b616-55d135bb40dd,female,Marina,Kermer,SPD,Bundestag,Vorsitzende der Geschäftsführung der Agentur für Arbeit Stendal,0,0,https://www.abgeordnetenwatch.de/profile/marina-kermer
+2015-05-12 01:00,corinna-ruffer,f2bceb6f-2521-48ce-90b1-44457e7a5679,female,Corinna,Rüffer,DIE GRÜNEN,Bundestag,Studium der Politikwissenschaften und Öffentliches Recht,0,0,https://www.abgeordnetenwatch.de/profile/corinna-ruffer
+2015-05-23 01:08,karl-schiewerling,f2cdec87-c16b-4fb9-ac0e-d598b22bc477,male,Karl,Schiewerling,CDU,Bundestag,"Industriekaufmann, Personalfachkaufmann",0,0,https://www.abgeordnetenwatch.de/profile/karl-schiewerling
+2015-05-11 23:01,gabriele-schmidt,f31341fa-de7c-4d61-a77a-ed0a9d67bff6,female,Gabriele,Schmidt,CDU,Bundestag,Industriekauffrau,0,0,https://www.abgeordnetenwatch.de/profile/gabriele-schmidt
+2015-05-14 01:08,frank-schwabe,f3d0fec4-fe5b-4c44-9a53-0d182611d2aa,male,Frank,Schwabe,SPD,Bundestag,"Studium der Volkswirtschaftslehre, Landespflege, Geschichte, Politikwissenschaft und Soziologie",0,0,https://www.abgeordnetenwatch.de/profile/frank-schwabe
+2015-05-22 01:08,ute-vogt,f4297b39-4768-450a-9f83-ba410dd2a34e,female,Ute,Vogt,SPD,Bundestag,Rechtsanwältin,0,0,https://www.abgeordnetenwatch.de/profile/ute-vogt
+2015-05-12 11:00,gitta-connemann,f443394b-1450-4fd2-901b-bb47fe17e103,female,Gitta,Connemann,CDU,Bundestag,"Rechtsanwältin, Verkäuferin",0,0,https://www.abgeordnetenwatch.de/profile/gitta-connemann
+2015-05-31 01:08,norbert-brackmann,f47345d5-e6aa-4f87-9235-dfae0656951c,male,Norbert,Brackmann,CDU,Bundestag,Jurist,0,0,https://www.abgeordnetenwatch.de/profile/norbert-brackmann
+2015-05-12 09:00,gunther-krichbaum,f4a2bc34-92a2-484e-afd6-6d9ac7ec265f,male,Gunther,Krichbaum,CDU,Bundestag,Wirtschaftsjurist,0,0,https://www.abgeordnetenwatch.de/profile/gunther-krichbaum
+2015-05-12 10:00,christian-flisek,f5ac6f72-765d-4494-98d4-0dac45c51435,male,Christian,Flisek,SPD,Bundestag,"Rechtsanwalt, Fachanwalt für Gewerblichen Rechtschutz",0,0,https://www.abgeordnetenwatch.de/profile/christian-flisek
+2015-05-12 02:00,johannes-roring,f66dd599-288c-4053-8be1-b3b3a8d27022,male,Johannes,Röring,CDU,Bundestag,Selbstständiger Landwirt,0,0,https://www.abgeordnetenwatch.de/profile/johannes-roring
+2015-05-30 01:09,clemens-binninger,f688da18-c5ce-4bc9-9fc9-944817939aae,male,Clemens,Binninger,CDU,Bundestag,Polizist,0,0,https://www.abgeordnetenwatch.de/profile/clemens-binninger
+2015-05-31 01:08,dagmar-wohrl,f6bdbded-75c6-430a-9ea6-83de9abbd08f,female,Dagmar,Wöhrl,CSU,Bundestag,"Rechtsanwältin, Unternehmerin",0,0,https://www.abgeordnetenwatch.de/profile/dagmar-wohrl
+2015-05-12 11:00,klaus-brahmig,f6ed01bb-2262-4951-9afe-9b2cb9e0adf9,male,Klaus,Brähmig,CDU,Bundestag,Elektrohandwerksmeister,0,0,https://www.abgeordnetenwatch.de/profile/klaus-brahmig
+2015-05-12 10:00,helmut-heiderich,f71a46bd-aeb3-4077-8d6a-c31db1570f8e,male,Helmut,Heiderich,CDU,Bundestag,Dipl.-Volkswirt,0,0,https://www.abgeordnetenwatch.de/profile/helmut-heiderich
+2015-05-25 01:08,wilfried-lorenz,f72b64a0-dd06-4342-ac37-4696052db48c,male,Wilfried,Lorenz,CDU,Bundestag,"Kaufmann, Oberstleutnant a.D.",0,0,https://www.abgeordnetenwatch.de/profile/wilfried-lorenz
+2015-05-12 01:00,rainer-spiering,f7918374-3656-4241-a4a2-0abd3c07cd6a,male,Rainer,Spiering,SPD,Bundestag,Oberstudienrat,0,0,https://www.abgeordnetenwatch.de/profile/rainer-spiering
+2015-05-12 02:00,jeannine-pflugradt,f7cbbfeb-d2a1-4b08-a8ba-ef064dfcaa4a,female,Jeannine,Pflugradt,SPD,Bundestag,Industriekauffrau,0,0,https://www.abgeordnetenwatch.de/profile/jeannine-pflugradt
+2015-05-19 01:08,dr-ralf-brauksiepe,f8083f6c-6239-4dda-ae93-eb3c8bc827cd,male,Ralf,Brauksiepe,CDU,Bundestag,Diplom-Ökonom,0,0,https://www.abgeordnetenwatch.de/profile/dr-ralf-brauksiepe
+2015-05-12 02:00,dr-martin-rosemann,f811bdd8-2717-43e9-b1f7-8a563d1966ee,male,Martin,Rosemann,SPD,Bundestag,Diplom-Volkswirt,0,0,https://www.abgeordnetenwatch.de/profile/dr-martin-rosemann
+2015-05-12 10:00,rudolf-henke,f87d3fe3-58a7-4614-9d8a-a5daf1a2d7f9,male,Rudolf,Henke,CDU,Bundestag,Arzt,0,0,https://www.abgeordnetenwatch.de/profile/rudolf-henke
+2015-05-12 10:00,wolfgang-gunkel,f9468f3b-ed53-4dc0-ae84-07f56b9b9c38,male,Wolfgang,Gunkel,SPD,Bundestag,Diplom-Verwaltungswirt,0,0,https://www.abgeordnetenwatch.de/profile/wolfgang-gunkel
+2015-05-20 01:08,peter-meiwald,fa4a5a23-683f-4cf1-9622-fab7ad6fa84c,male,Peter,Meiwald,DIE GRÜNEN,Bundestag,Diplom-Sozialpädagoge,0,0,https://www.abgeordnetenwatch.de/profile/peter-meiwald
+2015-05-30 01:09,dorothee-bar,fa5852b6-2580-4ebf-893e-5d7ac3ac0b1a,female,Dorothee,Bär,CSU,Bundestag,Dipl.-Politologin,0,0,https://www.abgeordnetenwatch.de/profile/dorothee-bar
+2015-05-15 01:08,axel-e-fischer,fabe0ba3-d858-45ab-9d85-669498d86d68,male,Axel E.,Fischer,CDU,Bundestag,"Diplomingenieur, Elektroinstallateur",0,0,https://www.abgeordnetenwatch.de/profile/axel-e-fischer
+2015-05-12 09:00,matthias-lietz,fb1276a6-b433-41b1-8d76-c115b6f14799,male,Matthias,Lietz,CDU,Bundestag,Diplom-Ingenieur,0,0,https://www.abgeordnetenwatch.de/profile/matthias-lietz
+2015-05-24 01:08,aydan-ozoguz,fb312e55-42b5-4a09-89ae-987b15c33ec3,female,Aydan,Özoguz,SPD,Bundestag,Studium der Anglistik,0,0,https://www.abgeordnetenwatch.de/profile/aydan-ozoguz
+2015-05-12 01:00,lena-strothmann,fc24abe3-a5da-4dec-b766-0a971a233b29,female,Lena,Strothmann,CDU,Bundestag,"Damenschneidermeisterin, Handwerksunternehmerin",0,0,https://www.abgeordnetenwatch.de/profile/lena-strothmann
+2015-05-12 00:00,peter-wichtel,fc6554cd-9d00-4f10-8eef-8664191e6ad9,male,Peter,Wichtel,CDU,Bundestag,Kaufmännischer Angestellter,0,0,https://www.abgeordnetenwatch.de/profile/peter-wichtel
+2015-05-12 00:00,thomas-lutze,fcc51aa0-f054-497b-8a0e-eebb6b78e244,male,Thomas,Lutze,DIE LINKE,Bundestag,"Maschinenbauer, Bürokaufmann",0,0,https://www.abgeordnetenwatch.de/profile/thomas-lutze
+2015-05-31 01:08,anja-hajduk,fcd17e24-37bd-4532-8b4c-40ec785476a5,female,Anja,Hajduk,DIE GRÜNEN,Bundestag,Diplom-Psychologin,0,0,https://www.abgeordnetenwatch.de/profile/anja-hajduk
+2015-05-31 01:08,willi-brase,fddb34b5-8493-4d21-8a96-8802358096b5,male,Willi,Brase,SPD,Bundestag,"Großhandelskaufmann, Sozialpädagoge",0,0,https://www.abgeordnetenwatch.de/profile/willi-brase
+2015-05-29 01:08,iris-gleicke,fe4d1e68-ea17-4b50-8c61-a17ae2309dd5,female,Iris,Gleicke,SPD,Bundestag,Bauingenieurin,0,0,https://www.abgeordnetenwatch.de/profile/iris-gleicke
