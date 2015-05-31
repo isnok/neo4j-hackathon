@@ -43,8 +43,8 @@ with open(args.get('FILE') or 'deputies.xml', 'r') as infile:
     soup = bs4.BeautifulSoup(infile.read())
     for p in soup.findAll('profile'):
         outfile = open('elections/' + p.uuid.text + '.csv', 'w')
-        heading = 'uuid,date,title,vote\n'
-        outfile.write(heading)
+        #heading = 'uuid,date,title,vote\n'
+        #outfile.write(heading)
         #print(p.uuid.text)
         #print(p.url_profile.text)
         results = get_elections(p.url_profile.text)
